@@ -1,0 +1,1894 @@
+[
+  {
+    "word": "abandon",
+    "ipa": "/əˈbændən/",
+    "thaiMeaning": "ทอดทิ้ง, ละทิ้ง",
+    "thaiReading": "อะ-แบน-ดัน",
+    "type": "verb",
+    "level": "B1",
+    "example": "They had to abandon the car in the flood.",
+    "exampleThai": "พวกเขาต้องทิ้งรถไว้ในน้ำท่วม",
+    "synonyms": [
+      "leave",
+      "desert"
+    ],
+    "tags": [
+      "daily",
+      "emergency"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1420
+  },
+  {
+    "word": "abstract",
+    "ipa": "/ˈæbstrækt/",
+    "thaiMeaning": "นามธรรม",
+    "thaiReading": "แอบ-สแตร็กท์",
+    "type": "adjective",
+    "level": "B1",
+    "example": "Justice is an abstract idea for many people.",
+    "exampleThai": "ความยุติธรรมเป็นแนวคิดเชิงนามธรรมสำหรับหลายคน",
+    "synonyms": [
+      "theoretical"
+    ],
+    "tags": [
+      "education",
+      "philosophy"
+    ],
+    "difficulty": 4,
+    "frequencyRank": 1680
+  },
+  {
+    "word": "accelerate",
+    "ipa": "/əkˈseləreɪt/",
+    "thaiMeaning": "เร่ง, เร่งความเร็ว",
+    "thaiReading": "แอค-เซล-อะ-เรต",
+    "type": "verb",
+    "level": "B1",
+    "example": "The driver accelerated to merge onto the highway.",
+    "exampleThai": "คนขับเร่งความเร็วเพื่อเข้าทางด่วน",
+    "synonyms": [
+      "speed up"
+    ],
+    "tags": [
+      "travel",
+      "daily"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1250
+  },
+  {
+    "word": "accommodate",
+    "ipa": "/əˈkɒmədeɪt/",
+    "thaiMeaning": "จัดที่พักให้, รองรับ",
+    "thaiReading": "อะ-คอม-มอ-เดต",
+    "type": "verb",
+    "level": "B1",
+    "example": "The hotel can accommodate up to two hundred guests.",
+    "exampleThai": "โรงแรมรองรับแขกได้สูงสุดสองร้อยคน",
+    "synonyms": [
+      "house"
+    ],
+    "tags": [
+      "travel",
+      "work"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1380
+  },
+  {
+    "word": "accomplish",
+    "ipa": "/əˈkɒmplɪʃ/",
+    "thaiMeaning": "ทำสำเร็จ",
+    "thaiReading": "อะ-คอม-พลิช",
+    "type": "verb",
+    "level": "B1",
+    "example": "She accomplished all her goals this year.",
+    "exampleThai": "เธอทำเป้าหมายทั้งหมดสำเร็จในปีนี้",
+    "synonyms": [
+      "achieve"
+    ],
+    "tags": [
+      "work",
+      "success"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 980
+  },
+  {
+    "word": "accuracy",
+    "ipa": "/ˈækjərəsi/",
+    "thaiMeaning": "ความแม่นยำ",
+    "thaiReading": "แอค-คิว-รา-ซี่",
+    "type": "noun",
+    "level": "B1",
+    "example": "Check your work for accuracy before submitting.",
+    "exampleThai": "ตรวจงานเพื่อความแม่นยำก่อนส่ง",
+    "synonyms": [
+      "precision"
+    ],
+    "tags": [
+      "education",
+      "work"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1150
+  },
+  {
+    "word": "acknowledge",
+    "ipa": "/əkˈnɒlɪdʒ/",
+    "thaiMeaning": "ยอมรับ, รับทราบ",
+    "thaiReading": "แอค-นอล-ลิจ",
+    "type": "verb",
+    "level": "B1",
+    "example": "He acknowledged his mistake in the email.",
+    "exampleThai": "เขายอมรับความผิดพลาดในอีเมล",
+    "synonyms": [
+      "admit"
+    ],
+    "tags": [
+      "communication",
+      "work"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1050
+  },
+  {
+    "word": "acquire",
+    "ipa": "/əˈkwaɪər/",
+    "thaiMeaning": "ได้มา, ซื้อ",
+    "thaiReading": "อะ-ไควร์",
+    "type": "verb",
+    "level": "B1",
+    "example": "The company acquired a smaller startup.",
+    "exampleThai": "บริษัทซื้อกิจการสตาร์ทอัพเล็กกว่า",
+    "synonyms": [
+      "obtain"
+    ],
+    "tags": [
+      "business",
+      "work"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1120
+  },
+  {
+    "word": "adolescent",
+    "ipa": "/ˌædəˈlesnt/",
+    "thaiMeaning": "วัยรุ่น",
+    "thaiReading": "แอด-โอ-เลส-เซินท์",
+    "type": "noun",
+    "level": "B1",
+    "example": "Many adolescents spend hours on social media.",
+    "exampleThai": "วัยรุ่นหลายคนใช้เวลาหลายชั่วโมงบนโซเชียลมีเดีย",
+    "synonyms": [
+      "teenager"
+    ],
+    "tags": [
+      "people",
+      "society"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1480
+  },
+  {
+    "word": "agriculture",
+    "ipa": "/ˈæɡrɪkʌltʃər/",
+    "thaiMeaning": "เกษตรกรรม",
+    "thaiReading": "แอก-ริ-คัล-เชอร์",
+    "type": "noun",
+    "level": "B1",
+    "example": "Agriculture is vital to the national economy.",
+    "exampleThai": "เกษตรกรรมสำคัญต่อเศรษฐกิจของประเทศ",
+    "synonyms": [
+      "farming"
+    ],
+    "tags": [
+      "nature",
+      "economy"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1320
+  },
+  {
+    "word": "aisle",
+    "ipa": "/aɪl/",
+    "thaiMeaning": "ทางเดินระหว่างที่นั่ง",
+    "thaiReading": "ไอล์",
+    "type": "noun",
+    "level": "B1",
+    "example": "Please keep the aisle clear during the flight.",
+    "exampleThai": "กรุณาไม่วางของกีดขวางทางเดินระหว่างที่นั่งบนเครื่องบิน",
+    "synonyms": [
+      "passage"
+    ],
+    "tags": [
+      "travel",
+      "daily"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1280
+  },
+  {
+    "word": "album",
+    "ipa": "/ˈælbəm/",
+    "thaiMeaning": "อัลบั้ม",
+    "thaiReading": "แอล-บั้ม",
+    "type": "noun",
+    "level": "B1",
+    "example": "Her new album will be released next month.",
+    "exampleThai": "อัลบั้มใหม่ของเธอจะวางจำหน่ายเดือนหน้า",
+    "synonyms": [
+      "record"
+    ],
+    "tags": [
+      "music",
+      "leisure"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 890
+  },
+  {
+    "word": "algebra",
+    "ipa": "/ˈældʒɪbrə/",
+    "thaiMeaning": "พีชคณิต",
+    "thaiReading": "แอล-จิ-บรา",
+    "type": "noun",
+    "level": "B1",
+    "example": "We learned basic algebra in middle school.",
+    "exampleThai": "เราเรียนพีชคณิตพื้นฐานในมัธยมต้น",
+    "synonyms": [
+      "math"
+    ],
+    "tags": [
+      "education",
+      "science"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1550
+  },
+  {
+    "word": "alien",
+    "ipa": "/ˈeɪliən/",
+    "thaiMeaning": "เอเลี่ยน, คนต่างด้าว",
+    "thaiReading": "เอ-ลิ-เอิน",
+    "type": "noun",
+    "level": "B1",
+    "example": "The movie is about an alien visiting Earth.",
+    "exampleThai": "หนังเรื่องนี้เกี่ยวกับมนุษย์ต่างดาวที่มาเยือนโลก",
+    "synonyms": [
+      "extraterrestrial"
+    ],
+    "tags": [
+      "entertainment",
+      "science"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1180
+  },
+  {
+    "word": "allocate",
+    "ipa": "/ˈæləkeɪt/",
+    "thaiMeaning": "จัดสรร",
+    "thaiReading": "แอล-โล-เคต",
+    "type": "verb",
+    "level": "B1",
+    "example": "We need to allocate more time for practice.",
+    "exampleThai": "เราต้องจัดสรรเวลาเพิ่มสำหรับการฝึกซ้อม",
+    "synonyms": [
+      "assign"
+    ],
+    "tags": [
+      "work",
+      "planning"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1450
+  },
+  {
+    "word": "ambassador",
+    "ipa": "/æmˈbæsədər/",
+    "thaiMeaning": "ทูต",
+    "thaiReading": "แอม-แบส-ซะ-เดอร์",
+    "type": "noun",
+    "level": "B1",
+    "example": "The ambassador spoke at the peace conference.",
+    "exampleThai": "ทูตกล่าวสุนทรพจน์ในที่ประชุมสันติภาพ",
+    "synonyms": [
+      "diplomat"
+    ],
+    "tags": [
+      "politics",
+      "society"
+    ],
+    "difficulty": 4,
+    "frequencyRank": 1620
+  },
+  {
+    "word": "amplify",
+    "ipa": "/ˈæmplɪfaɪ/",
+    "thaiMeaning": "ขยายเสียง, ขยาย",
+    "thaiReading": "แอม-พลิ-ไฟ",
+    "type": "verb",
+    "level": "B1",
+    "example": "The microphone amplifies your voice on stage.",
+    "exampleThai": "ไมโครโฟนขยายเสียงของคุณบนเวที",
+    "synonyms": [
+      "increase"
+    ],
+    "tags": [
+      "technology",
+      "music"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1520
+  },
+  {
+    "word": "analogy",
+    "ipa": "/əˈnælədʒi/",
+    "thaiMeaning": "การเปรียบเทียบ",
+    "thaiReading": "อะ-แนล-อะ-จี",
+    "type": "noun",
+    "level": "B1",
+    "example": "The teacher used an analogy to explain the concept.",
+    "exampleThai": "ครูใช้การเปรียบเทียบเพื่ออธิบายแนวคิด",
+    "synonyms": [
+      "comparison"
+    ],
+    "tags": [
+      "education",
+      "communication"
+    ],
+    "difficulty": 4,
+    "frequencyRank": 1750
+  },
+  {
+    "word": "analyst",
+    "ipa": "/ˈænəlɪst/",
+    "thaiMeaning": "นักวิเคราะห์",
+    "thaiReading": "แอน-อะ-ลิสท์",
+    "type": "noun",
+    "level": "B1",
+    "example": "A financial analyst reviewed the report.",
+    "exampleThai": "นักวิเคราะห์การเงินตรวจสอบรายงาน",
+    "synonyms": [
+      "examiner"
+    ],
+    "tags": [
+      "work",
+      "business"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1280
+  },
+  {
+    "word": "ancestor",
+    "ipa": "/ˈænsestər/",
+    "thaiMeaning": "บรรพบุรุษ",
+    "thaiReading": "แอน-เซส-เตอร์",
+    "type": "noun",
+    "level": "B1",
+    "example": "My ancestors came from the north of Thailand.",
+    "exampleThai": "บรรพบุรุษของฉันมาจากภาคเหนือของไทย",
+    "synonyms": [
+      "forefather"
+    ],
+    "tags": [
+      "family",
+      "history"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1350
+  },
+  {
+    "word": "anchor",
+    "ipa": "/ˈæŋkər/",
+    "thaiMeaning": "สมอ, ผู้ประกาศข่าว",
+    "thaiReading": "แอง-เคอร์",
+    "type": "noun",
+    "level": "B1",
+    "example": "The ship dropped anchor near the island.",
+    "exampleThai": "เรือทิ้งสมอใกล้เกาะ",
+    "synonyms": [
+      "mooring"
+    ],
+    "tags": [
+      "travel",
+      "media"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1220
+  },
+  {
+    "word": "anecdote",
+    "ipa": "/ˈænɪkdoʊt/",
+    "thaiMeaning": "เรื่องเล่าสั้นๆ",
+    "thaiReading": "แอน-นิก-โดท",
+    "type": "noun",
+    "level": "B1",
+    "example": "He told a funny anecdote about his first job.",
+    "exampleThai": "เขาเล่าเรื่องตลกเกี่ยวกับงานแรก",
+    "synonyms": [
+      "story"
+    ],
+    "tags": [
+      "communication",
+      "work"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1680
+  },
+  {
+    "word": "anonymous",
+    "ipa": "/əˈnɒnɪməs/",
+    "thaiMeaning": "ไม่ระบุชื่อ",
+    "thaiReading": "อะ-นอน-ิ-มัส",
+    "type": "adjective",
+    "level": "B1",
+    "example": "The donation was made by an anonymous donor.",
+    "exampleThai": "การบริจาคมาจากผู้บริจาคที่ไม่ประสงค์ออกนาม",
+    "synonyms": [
+      "unnamed"
+    ],
+    "tags": [
+      "society",
+      "ethics"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1480
+  },
+  {
+    "word": "antibiotic",
+    "ipa": "/ˌæntibaɪˈɒtɪk/",
+    "thaiMeaning": "ยาปฏิชีวนะ",
+    "thaiReading": "แอนติ-ไบ-ออท-ิค",
+    "type": "noun",
+    "level": "B1",
+    "example": "The doctor prescribed antibiotics for the infection.",
+    "exampleThai": "หมอสั่งยาปฏิชีวนะสำหรับการติดเชื้อ",
+    "synonyms": [
+      "medicine"
+    ],
+    "tags": [
+      "health",
+      "science"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1380
+  },
+  {
+    "word": "anticipate",
+    "ipa": "/ænˈtɪsɪpeɪt/",
+    "thaiMeaning": "คาดการณ์",
+    "thaiReading": "แอน-ทิส-ิ-เพต",
+    "type": "verb",
+    "level": "B1",
+    "example": "We anticipate strong sales this quarter.",
+    "exampleThai": "เราคาดว่ายอดขายไตรมาสนี้จะแข็งแกร่ง",
+    "synonyms": [
+      "expect"
+    ],
+    "tags": [
+      "business",
+      "work"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1120
+  },
+  {
+    "word": "antique",
+    "ipa": "/ænˈtiːk/",
+    "thaiMeaning": "ของโบราณ",
+    "thaiReading": "แอน-ทีค",
+    "type": "noun",
+    "level": "B1",
+    "example": "She collects antique furniture from Europe.",
+    "exampleThai": "เธอสะสมเฟอร์นิเจอร์โบราณจากยุโรป",
+    "synonyms": [
+      "vintage"
+    ],
+    "tags": [
+      "culture",
+      "shopping"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1320
+  },
+  {
+    "word": "anxiety",
+    "ipa": "/æŋˈzaɪəti/",
+    "thaiMeaning": "ความวิตกกังวล",
+    "thaiReading": "แอง-ไซ-ิ-ตี",
+    "type": "noun",
+    "level": "B1",
+    "example": "Public speaking causes anxiety for many students.",
+    "exampleThai": "การพูดในที่สาธารณะทำให้นักเรียนหลายคนกังวล",
+    "synonyms": [
+      "worry"
+    ],
+    "tags": [
+      "health",
+      "education"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1080
+  },
+  {
+    "word": "appendix",
+    "ipa": "/əˈpendɪks/",
+    "thaiMeaning": "ภาคผนวก, ไส้ติ่ง",
+    "thaiReading": "อะ-เพน-ดิกซ์",
+    "type": "noun",
+    "level": "B1",
+    "example": "You will find the data in the appendix.",
+    "exampleThai": "คุณจะพบข้อมูลในภาคผนวก",
+    "synonyms": [
+      "supplement"
+    ],
+    "tags": [
+      "education",
+      "health"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1580
+  },
+  {
+    "word": "appetite",
+    "ipa": "/ˈæpɪtaɪt/",
+    "thaiMeaning": "ความอยากอาหาร",
+    "thaiReading": "แอพ-พิ-ไท",
+    "type": "noun",
+    "level": "B1",
+    "example": "The walk gave me a healthy appetite.",
+    "exampleThai": "การเดินทำให้ฉันหิวอาหารอย่างดี",
+    "synonyms": [
+      "hunger"
+    ],
+    "tags": [
+      "health",
+      "food"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1180
+  },
+  {
+    "word": "applicant",
+    "ipa": "/ˈæplɪkənt/",
+    "thaiMeaning": "ผู้สมัคร",
+    "thaiReading": "แอพ-พลิ-แคนท์",
+    "type": "noun",
+    "level": "B1",
+    "example": "There were over fifty applicants for the role.",
+    "exampleThai": "มีผู้สมัครมากกว่าห้าสิบคนสำหรับตำแหน่งนี้",
+    "synonyms": [
+      "candidate"
+    ],
+    "tags": [
+      "work",
+      "education"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1220
+  },
+  {
+    "word": "appoint",
+    "ipa": "/əˈpɔɪnt/",
+    "thaiMeaning": "แต่งตั้ง, นัดหมาย",
+    "thaiReading": "อะ-พอยนท์",
+    "type": "verb",
+    "level": "B1",
+    "example": "They appointed her as team leader.",
+    "exampleThai": "พวกเขาแต่งตั้งเธอเป็นหัวหน้าทีม",
+    "synonyms": [
+      "assign"
+    ],
+    "tags": [
+      "work",
+      "daily"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1050
+  },
+  {
+    "word": "approve",
+    "ipa": "/əˈpruːv/",
+    "thaiMeaning": "อนุมัติ",
+    "thaiReading": "อะ-พรูฟ",
+    "type": "verb",
+    "level": "B1",
+    "example": "The manager approved my leave request.",
+    "exampleThai": "ผู้จัดการอนุมัติคำขอลาของฉัน",
+    "synonyms": [
+      "authorize"
+    ],
+    "tags": [
+      "work",
+      "daily"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 920
+  },
+  {
+    "word": "approximate",
+    "ipa": "/əˈprɒksɪmət/",
+    "thaiMeaning": "โดยประมาณ",
+    "thaiReading": "อะ-พร็อก-ซิ-เมิท",
+    "type": "adjective",
+    "level": "B1",
+    "example": "The approximate cost is five thousand baht.",
+    "exampleThai": "ค่าใช้จ่ายโดยประมาณคือห้าพันบาท",
+    "synonyms": [
+      "rough"
+    ],
+    "tags": [
+      "money",
+      "daily"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1280
+  },
+  {
+    "word": "aptitude",
+    "ipa": "/ˈæptɪtjuːd/",
+    "thaiMeaning": "ความถนัด",
+    "thaiReading": "แอพ-ทิ-ทูด",
+    "type": "noun",
+    "level": "B1",
+    "example": "She has a natural aptitude for languages.",
+    "exampleThai": "เธอมีความถนัดทางภาษาตามธรรมชาติ",
+    "synonyms": [
+      "talent"
+    ],
+    "tags": [
+      "education",
+      "work"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1620
+  },
+  {
+    "word": "aquatic",
+    "ipa": "/əˈkwætɪk/",
+    "thaiMeaning": "เกี่ยวกับน้ำ",
+    "thaiReading": "อะ-ควอ-ทิค",
+    "type": "adjective",
+    "level": "B1",
+    "example": "Dolphins are aquatic mammals.",
+    "exampleThai": "ปลาโลมาเป็นสัตว์เลี้ยงลูกด้วยนมที่อาศัยในน้ำ",
+    "synonyms": [
+      "marine"
+    ],
+    "tags": [
+      "nature",
+      "science"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1720
+  },
+  {
+    "word": "arbitrary",
+    "ipa": "/ˈɑːrbɪtreri/",
+    "thaiMeaning": "ตามอำเภอใจ",
+    "thaiReading": "อาร์-บิ-ทรา-รี่",
+    "type": "adjective",
+    "level": "B1",
+    "example": "The rule seemed arbitrary and unfair.",
+    "exampleThai": "กฎดูตามอำเภอใจและไม่ยุติธรรม",
+    "synonyms": [
+      "random"
+    ],
+    "tags": [
+      "society",
+      "law"
+    ],
+    "difficulty": 4,
+    "frequencyRank": 1780
+  },
+  {
+    "word": "architect",
+    "ipa": "/ˈɑːrkɪtekt/",
+    "thaiMeaning": "สถาปนิก",
+    "thaiReading": "อาร์-คิ-เท็กท์",
+    "type": "noun",
+    "level": "B1",
+    "example": "The architect designed an eco-friendly office.",
+    "exampleThai": "สถาปนิกออกแบบอาคารสำนักงานที่เป็นมิตรกับสิ่งแวดล้อม",
+    "synonyms": [
+      "designer"
+    ],
+    "tags": [
+      "work",
+      "environment"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1150
+  },
+  {
+    "word": "archive",
+    "ipa": "/ˈɑːrkaɪv/",
+    "thaiMeaning": "คลังเอกสาร",
+    "thaiReading": "อาร์-ไคฟ์",
+    "type": "noun",
+    "level": "B1",
+    "example": "Old photos are stored in the city archive.",
+    "exampleThai": "ภาพเก่าถูกเก็บในคลังเอกสารของเมือง",
+    "synonyms": [
+      "records"
+    ],
+    "tags": [
+      "history",
+      "work"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1480
+  },
+  {
+    "word": "arena",
+    "ipa": "/əˈriːnə/",
+    "thaiMeaning": "สนาม, เวที",
+    "thaiReading": "อะ-รี-นา",
+    "type": "noun",
+    "level": "B1",
+    "example": "The concert was held in a large arena.",
+    "exampleThai": "คอนเสิร์ตจัดในสนามขนาดใหญ่",
+    "synonyms": [
+      "stadium"
+    ],
+    "tags": [
+      "entertainment",
+      "sport"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1250
+  },
+  {
+    "word": "arithmetic",
+    "ipa": "/əˈrɪθmətɪk/",
+    "thaiMeaning": "เลขคณิต",
+    "thaiReading": "อะ-ริธ-เมา-ทิค",
+    "type": "noun",
+    "level": "B1",
+    "example": "Basic arithmetic is taught in primary school.",
+    "exampleThai": "เลขคณิตพื้นฐานสอนในโรงเรียนประถม",
+    "synonyms": [
+      "math"
+    ],
+    "tags": [
+      "education"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1380
+  },
+  {
+    "word": "aroma",
+    "ipa": "/əˈroʊmə/",
+    "thaiMeaning": "กลิ่นหอม",
+    "thaiReading": "อะ-โร-มา",
+    "type": "noun",
+    "level": "B1",
+    "example": "The aroma of fresh coffee filled the kitchen.",
+    "exampleThai": "กลิ่นหอมของกาแฟสดอบอวลในครัว",
+    "synonyms": [
+      "scent"
+    ],
+    "tags": [
+      "food",
+      "daily"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1420
+  },
+  {
+    "word": "articulate",
+    "ipa": "/ɑːrˈtɪkjuleɪt/",
+    "thaiMeaning": "แสดงออกอย่างชัดเจน",
+    "thaiReading": "อาร์-ทิค-คิว-เลต",
+    "type": "verb",
+    "level": "B1",
+    "example": "She can articulate complex ideas clearly.",
+    "exampleThai": "เธอสามารถอธิบายแนวคิดที่ซับซ้อนได้อย่างชัดเจน",
+    "synonyms": [
+      "express"
+    ],
+    "tags": [
+      "communication",
+      "work"
+    ],
+    "difficulty": 4,
+    "frequencyRank": 1650
+  },
+  {
+    "word": "artificial",
+    "ipa": "/ˌɑːrtɪˈfɪʃl/",
+    "thaiMeaning": "เทียม",
+    "thaiReading": "อาร์-ทิ-ฟิ-เชียล",
+    "type": "adjective",
+    "level": "B1",
+    "example": "The flowers on the table are artificial.",
+    "exampleThai": "ดอกไม้บนโต๊ะเป็นดอกไม้ประดิษฐ์",
+    "synonyms": [
+      "synthetic"
+    ],
+    "tags": [
+      "daily",
+      "science"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1120
+  },
+  {
+    "word": "ascend",
+    "ipa": "/əˈsend/",
+    "thaiMeaning": "ขึ้น, พุ่งขึ้น",
+    "thaiReading": "อะ-เซนด์",
+    "type": "verb",
+    "level": "B1",
+    "example": "We watched the balloon ascend into the sky.",
+    "exampleThai": "เราเห็นบอลลูนพุ่งขึ้นสู่ท้องฟ้า",
+    "synonyms": [
+      "rise"
+    ],
+    "tags": [
+      "travel",
+      "nature"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1580
+  },
+  {
+    "word": "aspire",
+    "ipa": "/əˈspaɪər/",
+    "thaiMeaning": "ปรารถนา",
+    "thaiReading": "อะ-สไปร์",
+    "type": "verb",
+    "level": "B1",
+    "example": "Many students aspire to study abroad.",
+    "exampleThai": "นักเรียนหลายคนปรารถนาจะเรียนต่างประเทศ",
+    "synonyms": [
+      "aim"
+    ],
+    "tags": [
+      "education",
+      "goals"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1320
+  },
+  {
+    "word": "assemble",
+    "ipa": "/əˈsembl/",
+    "thaiMeaning": "รวมตัว, ประกอบ",
+    "thaiReading": "อะ-เซม-เบิล",
+    "type": "verb",
+    "level": "B1",
+    "example": "Workers assemble parts in the factory.",
+    "exampleThai": "คนงานประกอบชิ้นส่วนในโรงงาน",
+    "synonyms": [
+      "gather"
+    ],
+    "tags": [
+      "work",
+      "manufacturing"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1180
+  },
+  {
+    "word": "assess",
+    "ipa": "/əˈses/",
+    "thaiMeaning": "ประเมิน",
+    "thaiReading": "อะ-เซส",
+    "type": "verb",
+    "level": "B1",
+    "example": "Teachers assess students throughout the term.",
+    "exampleThai": "ครูประเมินนักเรียนตลอดภาคเรียน",
+    "synonyms": [
+      "evaluate"
+    ],
+    "tags": [
+      "education",
+      "work"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1020
+  },
+  {
+    "word": "asset",
+    "ipa": "/ˈæset/",
+    "thaiMeaning": "สินทรัพย์",
+    "thaiReading": "แอส-เซ็ท",
+    "type": "noun",
+    "level": "B1",
+    "example": "Good communication is a valuable asset at work.",
+    "exampleThai": "การสื่อสารที่ดีเป็นสินทรัพย์ที่มีค่าในการทำงาน",
+    "synonyms": [
+      "resource"
+    ],
+    "tags": [
+      "business",
+      "work"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1080
+  },
+  {
+    "word": "assign",
+    "ipa": "/əˈsaɪn/",
+    "thaiMeaning": "มอบหมาย",
+    "thaiReading": "อะ-ไซน์",
+    "type": "verb",
+    "level": "B1",
+    "example": "The teacher assigned homework for the weekend.",
+    "exampleThai": "ครูมอบหมายการบ้านสำหรับสุดสัปดาห์",
+    "synonyms": [
+      "allocate"
+    ],
+    "tags": [
+      "education",
+      "work"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 980
+  },
+  {
+    "word": "assist",
+    "ipa": "/əˈsɪst/",
+    "thaiMeaning": "ช่วยเหลือ",
+    "thaiReading": "อะ-ซิสท์",
+    "type": "verb",
+    "level": "B1",
+    "example": "Nurses assist doctors during surgery.",
+    "exampleThai": "พยาบาลช่วยแพทย์ระหว่างผ่าตัด",
+    "synonyms": [
+      "help"
+    ],
+    "tags": [
+      "health",
+      "work"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1050
+  },
+  {
+    "word": "associate",
+    "ipa": "/əˈsoʊʃieɪt/",
+    "thaiMeaning": "เชื่อมโยง",
+    "thaiReading": "อะ-โซ-ชิ-เอต",
+    "type": "verb",
+    "level": "B1",
+    "example": "People often associate rain with sadness in films.",
+    "exampleThai": "คนมักเชื่อมฝนกับความเศร้าในภาพยนตร์",
+    "synonyms": [
+      "link"
+    ],
+    "tags": [
+      "communication",
+      "culture"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1120
+  },
+  {
+    "word": "assure",
+    "ipa": "/əˈʃʊr/",
+    "thaiMeaning": "ให้ความมั่นใจ",
+    "thaiReading": "อะ-ชัวร์",
+    "type": "verb",
+    "level": "B1",
+    "example": "I assure you the package will arrive tomorrow.",
+    "exampleThai": "ฉันรับประกันว่าพัสดุจะมาถึงพรุ่งนี้",
+    "synonyms": [
+      "guarantee"
+    ],
+    "tags": [
+      "communication",
+      "shopping"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1180
+  },
+  {
+    "word": "astonish",
+    "ipa": "/əˈstɒnɪʃ/",
+    "thaiMeaning": "ทำให้ประหลาดใจ",
+    "thaiReading": "อะ-สท็อ-นิช",
+    "type": "verb",
+    "level": "B1",
+    "example": "The magic trick astonished the audience.",
+    "exampleThai": "มายากลทำให้ผู้ชมประหลาดใจ",
+    "synonyms": [
+      "amaze"
+    ],
+    "tags": [
+      "entertainment"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1450
+  },
+  {
+    "word": "astronomy",
+    "ipa": "/əˈstrɒnəmi/",
+    "thaiMeaning": "ดาราศาสตร์",
+    "thaiReading": "อะ-สทร็อ-โน-มี่",
+    "type": "noun",
+    "level": "B1",
+    "example": "She studies astronomy at university.",
+    "exampleThai": "เธอเรียนดาราศาสตร์ที่มหาวิทยาลัย",
+    "synonyms": [
+      "space science"
+    ],
+    "tags": [
+      "science",
+      "education"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1520
+  },
+  {
+    "word": "athlete",
+    "ipa": "/ˈæθliːt/",
+    "thaiMeaning": "นักกีฬา",
+    "thaiReading": "แอธ-ลีท",
+    "type": "noun",
+    "level": "B1",
+    "example": "The athlete trained six days a week.",
+    "exampleThai": "นักกีฬาฝึกหกวันต่อสัปดาห์",
+    "synonyms": [
+      "sportsman"
+    ],
+    "tags": [
+      "sport",
+      "health"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1080
+  },
+  {
+    "word": "attain",
+    "ipa": "/əˈteɪn/",
+    "thaiMeaning": "บรรลุ",
+    "thaiReading": "อะ-เทน",
+    "type": "verb",
+    "level": "B1",
+    "example": "She attained her goal after years of effort.",
+    "exampleThai": "เธอบรรลุเป้าหมายหลังความพยายามหลายปี",
+    "synonyms": [
+      "achieve"
+    ],
+    "tags": [
+      "goals",
+      "work"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1280
+  },
+  {
+    "word": "attribute",
+    "ipa": "/əˈtrɪbjuːt/",
+    "thaiMeaning": "ให้เหตุผลว่าเกิดจาก",
+    "thaiReading": "อะ-ทริ-บิวท์",
+    "type": "verb",
+    "level": "B1",
+    "example": "She attributes her success to hard work.",
+    "exampleThai": "เธอให้เหตุผลว่าความสำเร็จมาจากความขยัน",
+    "synonyms": [
+      "credit"
+    ],
+    "tags": [
+      "work",
+      "goals"
+    ],
+    "difficulty": 4,
+    "frequencyRank": 1380
+  },
+  {
+    "word": "auction",
+    "ipa": "/ˈɔːkʃn/",
+    "thaiMeaning": "การประมูล",
+    "thaiReading": "ออค-ชั่น",
+    "type": "noun",
+    "level": "B1",
+    "example": "The painting sold at auction for a record price.",
+    "exampleThai": "ภาพวาดขายในการประมูลในราคาสถิติ",
+    "synonyms": [
+      "sale"
+    ],
+    "tags": [
+      "money",
+      "culture"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1420
+  },
+  {
+    "word": "authentic",
+    "ipa": "/ɔːˈθentɪk/",
+    "thaiMeaning": "แท้, ของจริง",
+    "thaiReading": "ออ-เทน-ทิค",
+    "type": "adjective",
+    "level": "B1",
+    "example": "This restaurant serves authentic Thai food.",
+    "exampleThai": "ร้านนี้เสิร์ฟอาหารไทยแท้",
+    "synonyms": [
+      "genuine"
+    ],
+    "tags": [
+      "food",
+      "culture"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1180
+  },
+  {
+    "word": "authority",
+    "ipa": "/əˈθɒrəti/",
+    "thaiMeaning": "อำนาจ, หน่วยงาน",
+    "thaiReading": "อะ-ทอ-ริ-ตี",
+    "type": "noun",
+    "level": "B1",
+    "example": "Local authorities issued a flood warning.",
+    "exampleThai": "หน่วยงานท้องถิ่นออกคำเตือนน้ำท่วม",
+    "synonyms": [
+      "power"
+    ],
+    "tags": [
+      "society",
+      "law"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1120
+  },
+  {
+    "word": "automatic",
+    "ipa": "/ˌɔːtəˈmætɪk/",
+    "thaiMeaning": "อัตโนมัติ",
+    "thaiReading": "ออ-ทะ-แมท-ทิค",
+    "type": "adjective",
+    "level": "B1",
+    "example": "The door has an automatic sensor.",
+    "exampleThai": "ประตูมีเซ็นเซอร์อัตโนมัติ",
+    "synonyms": [
+      "self-operating"
+    ],
+    "tags": [
+      "technology",
+      "daily"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1080
+  },
+  {
+    "word": "avenue",
+    "ipa": "/ˈævənjuː/",
+    "thaiMeaning": "ถนนใหญ่",
+    "thaiReading": "แอฟ-นิว",
+    "type": "noun",
+    "level": "B1",
+    "example": "They live on a quiet tree-lined avenue.",
+    "exampleThai": "พวกเขาอาศัยอยู่บนถนนใหญ่ร่มรื่น",
+    "synonyms": [
+      "street"
+    ],
+    "tags": [
+      "travel",
+      "daily"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1250
+  },
+  {
+    "word": "awkward",
+    "ipa": "/ˈɔːkwərd/",
+    "thaiMeaning": "อึดอัด, งุ่มง่าม",
+    "thaiReading": "ออ-ควอร์ด",
+    "type": "adjective",
+    "level": "B1",
+    "example": "There was an awkward silence in the room.",
+    "exampleThai": "มีความเงียบอึดอัดในห้อง",
+    "synonyms": [
+      "uncomfortable"
+    ],
+    "tags": [
+      "communication",
+      "daily"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1150
+  },
+  {
+    "word": "bachelor",
+    "ipa": "/ˈbætʃələr/",
+    "thaiMeaning": "ปริญญาตรี, โสด",
+    "thaiReading": "แบช-เลอร์",
+    "type": "noun",
+    "level": "B1",
+    "example": "He earned a bachelor degree in engineering.",
+    "exampleThai": "เขาได้ปริญญาตรีวิศวกรรม",
+    "synonyms": [
+      "graduate"
+    ],
+    "tags": [
+      "education"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1180
+  },
+  {
+    "word": "ban",
+    "ipa": "/bæn/",
+    "thaiMeaning": "ห้าม",
+    "thaiReading": "แบน",
+    "type": "verb",
+    "level": "B1",
+    "example": "The school banned phones in classrooms.",
+    "exampleThai": "โรงเรียนห้ามใช้โทรศัพท์ในห้องเรียน",
+    "synonyms": [
+      "prohibit"
+    ],
+    "tags": [
+      "education",
+      "law"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1120
+  },
+  {
+    "word": "bandage",
+    "ipa": "/ˈbændɪdʒ/",
+    "thaiMeaning": "ผ้าพันแผล",
+    "thaiReading": "แบน-ดิจ",
+    "type": "noun",
+    "level": "B1",
+    "example": "Apply a bandage to the small cut.",
+    "exampleThai": "พันผ้าพันแผลที่แผลเล็ก",
+    "synonyms": [
+      "dressing"
+    ],
+    "tags": [
+      "health"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1380
+  },
+  {
+    "word": "bankrupt",
+    "ipa": "/ˈbæŋkrʌpt/",
+    "thaiMeaning": "ล้มละลาย",
+    "thaiReading": "แบงค์-รัพท์",
+    "type": "adjective",
+    "level": "B1",
+    "example": "The company went bankrupt last year.",
+    "exampleThai": "บริษัทล้มละลายเมื่อปีที่แล้ว",
+    "synonyms": [
+      "insolvent"
+    ],
+    "tags": [
+      "business",
+      "money"
+    ],
+    "difficulty": 4,
+    "frequencyRank": 1450
+  },
+  {
+    "word": "bargain",
+    "ipa": "/ˈbɑːrɡən/",
+    "thaiMeaning": "ต่อรอง, ของถูก",
+    "thaiReading": "บาร์-กิน",
+    "type": "noun",
+    "level": "B1",
+    "example": "That jacket was a real bargain.",
+    "exampleThai": "แจ็กเก็ตตัวนั้นถูกมาก",
+    "synonyms": [
+      "deal"
+    ],
+    "tags": [
+      "shopping",
+      "money"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1180
+  },
+  {
+    "word": "barrier",
+    "ipa": "/ˈbæriər/",
+    "thaiMeaning": "อุปสรรค",
+    "thaiReading": "แบร์-ริ-เออร์",
+    "type": "noun",
+    "level": "B1",
+    "example": "Language can be a barrier when traveling.",
+    "exampleThai": "ภาษาอาจเป็นอุปสรรคเมื่อเดินทาง",
+    "synonyms": [
+      "obstacle"
+    ],
+    "tags": [
+      "travel",
+      "communication"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1120
+  },
+  {
+    "word": "behalf",
+    "ipa": "/bɪˈhɑːf/",
+    "thaiMeaning": "ในนามของ",
+    "thaiReading": "บิ-ฮาฟ",
+    "type": "noun",
+    "level": "B1",
+    "example": "She spoke on behalf of the team.",
+    "exampleThai": "เธอพูดในนามของทีม",
+    "synonyms": [
+      "representing"
+    ],
+    "tags": [
+      "work",
+      "communication"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1220
+  },
+  {
+    "word": "belief",
+    "ipa": "/bɪˈliːf/",
+    "thaiMeaning": "ความเชื่อ",
+    "thaiReading": "บิ-ลีฟ",
+    "type": "noun",
+    "level": "B1",
+    "example": "Respect for different beliefs is essential.",
+    "exampleThai": "การเคารพความเชื่อที่ต่างกันเป็นสิ่งจำเป็น",
+    "synonyms": [
+      "faith"
+    ],
+    "tags": [
+      "society",
+      "culture"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1080
+  },
+  {
+    "word": "betray",
+    "ipa": "/bɪˈtreɪ/",
+    "thaiMeaning": "ทรยศ",
+    "thaiReading": "บิ-เทรย์",
+    "type": "verb",
+    "level": "B1",
+    "example": "He felt betrayed when his friend lied.",
+    "exampleThai": "เขารู้สึกถูกทรยศเมื่อเพื่อนโกหก",
+    "synonyms": [
+      "deceive"
+    ],
+    "tags": [
+      "relationships"
+    ],
+    "difficulty": 4,
+    "frequencyRank": 1520
+  },
+  {
+    "word": "bias",
+    "ipa": "/ˈbaɪəs/",
+    "thaiMeaning": "อคติ",
+    "thaiReading": "ไบ-อัส",
+    "type": "noun",
+    "level": "B1",
+    "example": "We should reduce bias in hiring decisions.",
+    "exampleThai": "เราควรลดอคติในการตัดสินใจจ้างงาน",
+    "synonyms": [
+      "prejudice"
+    ],
+    "tags": [
+      "work",
+      "society"
+    ],
+    "difficulty": 4,
+    "frequencyRank": 1380
+  },
+  {
+    "word": "bilingual",
+    "ipa": "/baɪˈlɪŋɡwəl/",
+    "thaiMeaning": "สองภาษา",
+    "thaiReading": "ไบ-ลิน-กวัล",
+    "type": "adjective",
+    "level": "B1",
+    "example": "She is bilingual in Thai and English.",
+    "exampleThai": "เธอใช้ได้สองภาษาไทยและอังกฤษ",
+    "synonyms": [
+      "dual-language"
+    ],
+    "tags": [
+      "education",
+      "communication"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1450
+  },
+  {
+    "word": "biography",
+    "ipa": "/baɪˈɒɡrəfi/",
+    "thaiMeaning": "ชีวประวัติ",
+    "thaiReading": "ไบ-อ็อก-รə-ฟี",
+    "type": "noun",
+    "level": "B1",
+    "example": "I read a biography of a famous scientist.",
+    "exampleThai": "ฉันอ่านชีวประวัติของนักวิทยาศาสตร์ที่มีชื่อ",
+    "synonyms": [
+      "life story"
+    ],
+    "tags": [
+      "culture",
+      "education"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1320
+  },
+  {
+    "word": "bitter",
+    "ipa": "/ˈbɪtər/",
+    "thaiMeaning": "ขม",
+    "thaiReading": "บิท-เทอร์",
+    "type": "adjective",
+    "level": "B1",
+    "example": "Dark chocolate tastes slightly bitter.",
+    "exampleThai": "ช็อกโกแลตดำมีรสขมเล็กน้อย",
+    "synonyms": [
+      "sharp"
+    ],
+    "tags": [
+      "food"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1180
+  },
+  {
+    "word": "blend",
+    "ipa": "/blend/",
+    "thaiMeaning": "ผสม",
+    "thaiReading": "เบลนด์",
+    "type": "verb",
+    "level": "B1",
+    "example": "Blend the fruit until smooth.",
+    "exampleThai": "ปั่นผลไม้จนเนียน",
+    "synonyms": [
+      "mix"
+    ],
+    "tags": [
+      "food",
+      "cooking"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1220
+  },
+  {
+    "word": "bless",
+    "ipa": "/bles/",
+    "thaiMeaning": "อวยพร",
+    "thaiReading": "เบลส",
+    "type": "verb",
+    "level": "B1",
+    "example": "May good luck bless your new job.",
+    "exampleThai": "ขอให้โชคดีกับงานใหม่ของคุณ",
+    "synonyms": [
+      "favor"
+    ],
+    "tags": [
+      "culture",
+      "daily"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1280
+  },
+  {
+    "word": "blink",
+    "ipa": "/blɪŋk/",
+    "thaiMeaning": "กระพริบตา",
+    "thaiReading": "บลิงค์",
+    "type": "verb",
+    "level": "B1",
+    "example": "Do not blink during the photo.",
+    "exampleThai": "อย่ากระพริบตาตอนถ่ายรูป",
+    "synonyms": [
+      "wink"
+    ],
+    "tags": [
+      "daily",
+      "health"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1350
+  },
+  {
+    "word": "bloom",
+    "ipa": "/bluːm/",
+    "thaiMeaning": "บาน",
+    "thaiReading": "บลูม",
+    "type": "verb",
+    "level": "B1",
+    "example": "Cherry trees bloom in spring.",
+    "exampleThai": "ต้นซากุระบานในฤดูใบไม้ผลิ",
+    "synonyms": [
+      "flower"
+    ],
+    "tags": [
+      "nature"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1250
+  },
+  {
+    "word": "bold",
+    "ipa": "/boʊld/",
+    "thaiMeaning": "กล้าหาญ, ตัวหนา",
+    "thaiReading": "โบลด์",
+    "type": "adjective",
+    "level": "B1",
+    "example": "It was a bold decision to start a business.",
+    "exampleThai": "การตัดสินใจเริ่มธุรกิจเป็นเรื่องกล้าหาญ",
+    "synonyms": [
+      "brave"
+    ],
+    "tags": [
+      "work",
+      "daily"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1120
+  },
+  {
+    "word": "bond",
+    "ipa": "/bɒnd/",
+    "thaiMeaning": "สายสัมพันธ์",
+    "thaiReading": "บอนด์",
+    "type": "noun",
+    "level": "B1",
+    "example": "Travel can strengthen the bond between friends.",
+    "exampleThai": "การเดินทางช่วยเสริมสายสัมพันธ์ระหว่างเพื่อน",
+    "synonyms": [
+      "connection"
+    ],
+    "tags": [
+      "relationships"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1180
+  },
+  {
+    "word": "bonus",
+    "ipa": "/ˈboʊnəs/",
+    "thaiMeaning": "โบนัส",
+    "thaiReading": "โบ-นัส",
+    "type": "noun",
+    "level": "B1",
+    "example": "Employees received a year-end bonus.",
+    "exampleThai": "พนักงานได้รับโบนัสสิ้นปี",
+    "synonyms": [
+      "reward"
+    ],
+    "tags": [
+      "work",
+      "money"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1080
+  },
+  {
+    "word": "boom",
+    "ipa": "/buːm/",
+    "thaiMeaning": "เฟื่องฟู",
+    "thaiReading": "บูม",
+    "type": "noun",
+    "level": "B1",
+    "example": "There was a tourism boom after the festival.",
+    "exampleThai": "การท่องเที่ยวเฟื่องฟูหลังเทศกาล",
+    "synonyms": [
+      "surge"
+    ],
+    "tags": [
+      "business",
+      "travel"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1320
+  },
+  {
+    "word": "boost",
+    "ipa": "/buːst/",
+    "thaiMeaning": "กระตุ้น, เพิ่ม",
+    "thaiReading": "บูสท์",
+    "type": "verb",
+    "level": "B1",
+    "example": "Good reviews can boost sales online.",
+    "exampleThai": "รีวิวดีช่วยเพิ่มยอดขายออนไลน์",
+    "synonyms": [
+      "increase"
+    ],
+    "tags": [
+      "business",
+      "marketing"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1150
+  },
+  {
+    "word": "border",
+    "ipa": "/ˈbɔːrdər/",
+    "thaiMeaning": "ชายแดน",
+    "thaiReading": "บอร์-เดอร์",
+    "type": "noun",
+    "level": "B1",
+    "example": "We crossed the border at dawn.",
+    "exampleThai": "เราข้ามชายแดนตอนรุ่งสาง",
+    "synonyms": [
+      "boundary"
+    ],
+    "tags": [
+      "travel",
+      "geography"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 980
+  },
+  {
+    "word": "boredom",
+    "ipa": "/ˈbɔːrdəm/",
+    "thaiMeaning": "ความเบื่อ",
+    "thaiReading": "บอร์-ดัม",
+    "type": "noun",
+    "level": "B1",
+    "example": "Long meetings can cause boredom.",
+    "exampleThai": "การประชุมยาวทำให้เบื่อได้",
+    "synonyms": [
+      "tedium"
+    ],
+    "tags": [
+      "work",
+      "daily"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1280
+  },
+  {
+    "word": "borrow",
+    "ipa": "/ˈbɒroʊ/",
+    "thaiMeaning": "ยืม",
+    "thaiReading": "บอร์-โรว์",
+    "type": "verb",
+    "level": "B1",
+    "example": "May I borrow your charger for an hour?",
+    "exampleThai": "ขอยืมที่ชาร์จชั่วโมงหนึ่งได้ไหม",
+    "synonyms": [
+      "lend"
+    ],
+    "tags": [
+      "daily"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 850
+  },
+  {
+    "word": "bother",
+    "ipa": "/ˈbɒðər/",
+    "thaiMeaning": "รบกวน, กังวล",
+    "thaiReading": "บอ-เธอร์",
+    "type": "verb",
+    "level": "B1",
+    "example": "Sorry to bother you with a quick question.",
+    "exampleThai": "ขอโทษที่รบกวนด้วยคำถามสั้นๆ",
+    "synonyms": [
+      "disturb"
+    ],
+    "tags": [
+      "communication",
+      "daily"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 980
+  },
+  {
+    "word": "boundary",
+    "ipa": "/ˈbaʊndri/",
+    "thaiMeaning": "ขอบเขต",
+    "thaiReading": "บาวน-ดรี",
+    "type": "noun",
+    "level": "B1",
+    "example": "Set clear boundaries between work and home.",
+    "exampleThai": "กำหนดขอบเขตชัดเจนระหว่างงานและบ้าน",
+    "synonyms": [
+      "limit"
+    ],
+    "tags": [
+      "work",
+      "relationships"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1180
+  },
+  {
+    "word": "boycott",
+    "ipa": "/ˈbɔɪkɒt/",
+    "thaiMeaning": "คว่ำบาตร",
+    "thaiReading": "บอย-ค็อท",
+    "type": "verb",
+    "level": "B1",
+    "example": "Consumers boycotted the brand over pollution.",
+    "exampleThai": "ผู้บริโภคคว่ำบาตรแบรนด์เพราะมลพิษ",
+    "synonyms": [
+      "ban"
+    ],
+    "tags": [
+      "society",
+      "business"
+    ],
+    "difficulty": 4,
+    "frequencyRank": 1580
+  },
+  {
+    "word": "brainstorm",
+    "ipa": "/ˈbreɪnstɔːrm/",
+    "thaiMeaning": "ระดมความคิด",
+    "thaiReading": "เบรน-สตอร์ม",
+    "type": "verb",
+    "level": "B1",
+    "example": "Let us brainstorm ideas for the campaign.",
+    "exampleThai": "มาระดมความคิดสำหรับแคมเปญกัน",
+    "synonyms": [
+      "ideate"
+    ],
+    "tags": [
+      "work",
+      "creativity"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1350
+  },
+  {
+    "word": "branch",
+    "ipa": "/brɑːntʃ/",
+    "thaiMeaning": "สาขา, กิ่ง",
+    "thaiReading": "บรานช์",
+    "type": "noun",
+    "level": "B1",
+    "example": "The bank opened a new branch downtown.",
+    "exampleThai": "ธนาคารเปิดสาขาใหม่ในใจกลางเมือง",
+    "synonyms": [
+      "office"
+    ],
+    "tags": [
+      "business",
+      "work"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1020
+  },
+  {
+    "word": "brand",
+    "ipa": "/brænd/",
+    "thaiMeaning": "แบรนด์",
+    "thaiReading": "แบรนด์",
+    "type": "noun",
+    "level": "B1",
+    "example": "She works on building a strong personal brand.",
+    "exampleThai": "เธอทำงานสร้างแบรนด์ส่วนตัวที่แข็งแกร่ง",
+    "synonyms": [
+      "label"
+    ],
+    "tags": [
+      "marketing",
+      "work"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 920
+  },
+  {
+    "word": "breach",
+    "ipa": "/briːtʃ/",
+    "thaiMeaning": "ละเมิด",
+    "thaiReading": "บรีช",
+    "type": "verb",
+    "level": "B1",
+    "example": "Hackers breached the company database.",
+    "exampleThai": "แฮกเกอร์เจาะฐานข้อมูลบริษัท",
+    "synonyms": [
+      "violate"
+    ],
+    "tags": [
+      "technology",
+      "law"
+    ],
+    "difficulty": 4,
+    "frequencyRank": 1480
+  },
+  {
+    "word": "breakthrough",
+    "ipa": "/ˈbreɪkθruː/",
+    "thaiMeaning": "ความก้าวหน้า",
+    "thaiReading": "เบรก-ทรู",
+    "type": "noun",
+    "level": "B1",
+    "example": "Scientists announced a medical breakthrough.",
+    "exampleThai": "นักวิทยาศาสตร์ประกาศความก้าวหน้าทางการแพทย์",
+    "synonyms": [
+      "advance"
+    ],
+    "tags": [
+      "science",
+      "health"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1250
+  },
+  {
+    "word": "breed",
+    "ipa": "/briːd/",
+    "thaiMeaning": "เพาะพันธุ์",
+    "thaiReading": "บรีด",
+    "type": "verb",
+    "level": "B1",
+    "example": "They breed horses on the farm.",
+    "exampleThai": "พวกเขาเพาะพันธุ์ม้าในฟาร์ม",
+    "synonyms": [
+      "raise"
+    ],
+    "tags": [
+      "nature",
+      "animals"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1320
+  },
+  {
+    "word": "breeze",
+    "ipa": "/briːz/",
+    "thaiMeaning": "สายลมเบา",
+    "thaiReading": "บรีซ",
+    "type": "noun",
+    "level": "B1",
+    "example": "A cool breeze blew through the window.",
+    "exampleThai": "สายลมเย็นพัดผ่านหน้าต่าง",
+    "synonyms": [
+      "wind"
+    ],
+    "tags": [
+      "weather",
+      "nature"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1180
+  },
+  {
+    "word": "brief",
+    "ipa": "/briːf/",
+    "thaiMeaning": "สั้น, สรุป",
+    "thaiReading": "บรีฟ",
+    "type": "adjective",
+    "level": "B1",
+    "example": "Please keep your introduction brief.",
+    "exampleThai": "กรุณาแนะนำตัวสั้นๆ",
+    "synonyms": [
+      "short"
+    ],
+    "tags": [
+      "communication",
+      "work"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 980
+  },
+  {
+    "word": "brilliant",
+    "ipa": "/ˈbrɪliənt/",
+    "thaiMeaning": "ฉลาด, เปล่งประกาย",
+    "thaiReading": "บริล-เลียนท์",
+    "type": "adjective",
+    "level": "B1",
+    "example": "That was a brilliant solution to the problem.",
+    "exampleThai": "นั่นเป็นทางแก้ปัญหาที่ฉลาดมาก",
+    "synonyms": [
+      "clever"
+    ],
+    "tags": [
+      "education",
+      "work"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1050
+  }
+]

@@ -1,0 +1,1902 @@
+[
+  {
+    "word": "abroad",
+    "ipa": "/əˈbrɔːd/",
+    "thaiMeaning": "ต่างประเทศ",
+    "thaiReading": "อะ-บรอด",
+    "type": "adverb",
+    "level": "A2",
+    "example": "She studied abroad for one year.",
+    "exampleThai": "เธอเรียนต่างประเทศหนึ่งปี",
+    "synonyms": [
+      "overseas"
+    ],
+    "tags": [
+      "travel",
+      "education"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 920
+  },
+  {
+    "word": "accident",
+    "ipa": "/ˈæksɪdənt/",
+    "thaiMeaning": "อุบัติเหตุ",
+    "thaiReading": "แอค-ซิ-เดินท์",
+    "type": "noun",
+    "level": "A2",
+    "example": "There was a car accident on the highway.",
+    "exampleThai": "มีอุบัติเหตุรถยนต์บนทางด่วน",
+    "synonyms": [
+      "crash"
+    ],
+    "tags": [
+      "travel",
+      "health"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 780
+  },
+  {
+    "word": "account",
+    "ipa": "/əˈkaʊnt/",
+    "thaiMeaning": "บัญชี",
+    "thaiReading": "อะ-เคาท์",
+    "type": "noun",
+    "level": "A2",
+    "example": "I opened a bank account last week.",
+    "exampleThai": "ฉันเปิดบัญชีธนาคารเมื่อสัปดาห์ที่แล้ว",
+    "synonyms": [
+      "profile"
+    ],
+    "tags": [
+      "money",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 650
+  },
+  {
+    "word": "act",
+    "ipa": "/ækt/",
+    "thaiMeaning": "แสดง, กระทำ",
+    "thaiReading": "แอคท์",
+    "type": "verb",
+    "level": "A2",
+    "example": "You need to act quickly in an emergency.",
+    "exampleThai": "คุณต้องดำเนินการอย่างรวดเร็วในกรณีฉุกเฉิน",
+    "synonyms": [
+      "behave"
+    ],
+    "tags": [
+      "daily",
+      "work"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 580
+  },
+  {
+    "word": "activity",
+    "ipa": "/ækˈtɪvəti/",
+    "thaiMeaning": "กิจกรรม",
+    "thaiReading": "แอค-ทิ-วิ-ที่",
+    "type": "noun",
+    "level": "A2",
+    "example": "Outdoor activities are good for your health.",
+    "exampleThai": "กิจกรรมกลางแจ้งดีต่อสุขภาพ",
+    "synonyms": [
+      "event"
+    ],
+    "tags": [
+      "leisure",
+      "health"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 540
+  },
+  {
+    "word": "add",
+    "ipa": "/æd/",
+    "thaiMeaning": "เพิ่ม",
+    "thaiReading": "แอด",
+    "type": "verb",
+    "level": "A2",
+    "example": "Please add sugar to my coffee.",
+    "exampleThai": "กรุณาใส่น้ำตาลในกาแฟของฉัน",
+    "synonyms": [
+      "include"
+    ],
+    "tags": [
+      "food",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 380
+  },
+  {
+    "word": "adult",
+    "ipa": "/ˈædʌlt/",
+    "thaiMeaning": "ผู้ใหญ่",
+    "thaiReading": "แอ-ดัลท์",
+    "type": "noun",
+    "level": "A2",
+    "example": "This film is for adults only.",
+    "exampleThai": "หนังเรื่องนี้สำหรับผู้ใหญ่เท่านั้น",
+    "synonyms": [
+      "grown-up"
+    ],
+    "tags": [
+      "people",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 610
+  },
+  {
+    "word": "advertise",
+    "ipa": "/ˈædvərtaɪz/",
+    "thaiMeaning": "โฆษณา",
+    "thaiReading": "แอด-เวอร์-ไทซ์",
+    "type": "verb",
+    "level": "A2",
+    "example": "They advertise their products online.",
+    "exampleThai": "พวกเขาโฆษณาสินค้าทางออนไลน์",
+    "synonyms": [
+      "promote"
+    ],
+    "tags": [
+      "business",
+      "technology"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1100
+  },
+  {
+    "word": "agency",
+    "ipa": "/ˈeɪdʒənsi/",
+    "thaiMeaning": "หน่วยงาน, บริษัทตัวแทน",
+    "thaiReading": "เอ-เจินซี่",
+    "type": "noun",
+    "level": "A2",
+    "example": "We booked the trip through a travel agency.",
+    "exampleThai": "เราจองทริปผ่านบริษัททัวร์",
+    "synonyms": [
+      "office"
+    ],
+    "tags": [
+      "travel",
+      "work"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 980
+  },
+  {
+    "word": "ahead",
+    "ipa": "/əˈhed/",
+    "thaiMeaning": "ข้างหน้า",
+    "thaiReading": "อะ-เฮด",
+    "type": "adverb",
+    "level": "A2",
+    "example": "Go straight ahead and turn left.",
+    "exampleThai": "ตรงไปข้างหน้าแล้วเลี้ยวซ้าย",
+    "synonyms": [
+      "forward"
+    ],
+    "tags": [
+      "travel",
+      "direction"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 640
+  },
+  {
+    "word": "aim",
+    "ipa": "/eɪm/",
+    "thaiMeaning": "มุ่งหมาย",
+    "thaiReading": "เอม",
+    "type": "verb",
+    "level": "A2",
+    "example": "We aim to finish the project by Friday.",
+    "exampleThai": "เรามุ่งหมายให้โปรเจกต์เสร็จภายในวันศุกร์",
+    "synonyms": [
+      "target"
+    ],
+    "tags": [
+      "work",
+      "goals"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 820
+  },
+  {
+    "word": "airline",
+    "ipa": "/ˈerlaɪn/",
+    "thaiMeaning": "สายการบิน",
+    "thaiReading": "แอร์-ไลน์",
+    "type": "noun",
+    "level": "A2",
+    "example": "Which airline are you flying with?",
+    "exampleThai": "คุณจะบินกับสายการบินไหน",
+    "synonyms": [
+      "carrier"
+    ],
+    "tags": [
+      "travel",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 1050
+  },
+  {
+    "word": "alarm",
+    "ipa": "/əˈlɑːrm/",
+    "thaiMeaning": "นาฬิกาปลุก, สัญญาณเตือน",
+    "thaiReading": "อะ-ลาร์ม",
+    "type": "noun",
+    "level": "A2",
+    "example": "My alarm did not ring this morning.",
+    "exampleThai": "นาฬิกาปลุกของฉันไม่ดังเช้านี้",
+    "synonyms": [
+      "alert"
+    ],
+    "tags": [
+      "time",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 710
+  },
+  {
+    "word": "alcohol",
+    "ipa": "/ˈælkəhɒl/",
+    "thaiMeaning": "แอลกอฮอล์",
+    "thaiReading": "แอล-กอ-ฮอล",
+    "type": "noun",
+    "level": "A2",
+    "example": "He does not drink alcohol.",
+    "exampleThai": "เขาไม่ดื่มแอลกอฮอล์",
+    "synonyms": [
+      "liquor"
+    ],
+    "tags": [
+      "health",
+      "social"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 890
+  },
+  {
+    "word": "alive",
+    "ipa": "/əˈlaɪv/",
+    "thaiMeaning": "มีชีวิต",
+    "thaiReading": "อะ-ไลฟ์",
+    "type": "adjective",
+    "level": "A2",
+    "example": "Luckily, everyone was alive after the fire.",
+    "exampleThai": "โชคดีที่ทุกคนรอดชีวิตหลังไฟไหม้",
+    "synonyms": [
+      "living"
+    ],
+    "tags": [
+      "health",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 760
+  },
+  {
+    "word": "already",
+    "ipa": "/ɔːlˈredi/",
+    "thaiMeaning": "แล้ว",
+    "thaiReading": "ออล-เรด-ดี",
+    "type": "adverb",
+    "level": "A2",
+    "example": "I have already seen that movie.",
+    "exampleThai": "ฉันดูหนังเรื่องนั้นแล้ว",
+    "synonyms": [
+      "by now"
+    ],
+    "tags": [
+      "time",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 390
+  },
+  {
+    "word": "although",
+    "ipa": "/ɔːlˈðoʊ/",
+    "thaiMeaning": "แม้ว่า",
+    "thaiReading": "ออล-โธ",
+    "type": "conjunction",
+    "level": "A2",
+    "example": "Although it rained, we had fun.",
+    "exampleThai": "แม้ฝนจะตก เราก็สนุก",
+    "synonyms": [
+      "though"
+    ],
+    "tags": [
+      "grammar",
+      "daily"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 950
+  },
+  {
+    "word": "altogether",
+    "ipa": "/ˌɔːltəˈɡeðər/",
+    "thaiMeaning": "ทั้งหมด",
+    "thaiReading": "ออล-ทะ-เก็ด-เธอร์",
+    "type": "adverb",
+    "level": "A2",
+    "example": "That will cost fifty dollars altogether.",
+    "exampleThai": "รวมทั้งหมดจะราคาห้าสิบดอลลาร์",
+    "synonyms": [
+      "in total"
+    ],
+    "tags": [
+      "shopping",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 1180
+  },
+  {
+    "word": "ankle",
+    "ipa": "/ˈæŋkl/",
+    "thaiMeaning": "ข้อเท้า",
+    "thaiReading": "แอง-เคิล",
+    "type": "noun",
+    "level": "A2",
+    "example": "She hurt her ankle while running.",
+    "exampleThai": "เธอเจ็บข้อเท้าตอนวิ่ง",
+    "synonyms": [
+      "joint"
+    ],
+    "tags": [
+      "body",
+      "health"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 1250
+  },
+  {
+    "word": "anniversary",
+    "ipa": "/ˌænɪˈvɜːrsəri/",
+    "thaiMeaning": "วันครบรอบ",
+    "thaiReading": "แอน-นิ-เวอร์-ซา-รี่",
+    "type": "noun",
+    "level": "A2",
+    "example": "Today is our wedding anniversary.",
+    "exampleThai": "วันนี้เป็นวันครบรอบแต่งงานของเรา",
+    "synonyms": [
+      "celebration"
+    ],
+    "tags": [
+      "family",
+      "social"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 1320
+  },
+  {
+    "word": "annoy",
+    "ipa": "/əˈnɔɪ/",
+    "thaiMeaning": "รำคาญ",
+    "thaiReading": "อะ-นอย",
+    "type": "verb",
+    "level": "A2",
+    "example": "Loud music annoys my neighbors.",
+    "exampleThai": "เพลงดังทำให้เพื่อนบ้านฉันรำคาญ",
+    "synonyms": [
+      "bother"
+    ],
+    "tags": [
+      "feelings",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 1020
+  },
+  {
+    "word": "annual",
+    "ipa": "/ˈænjuəl/",
+    "thaiMeaning": "ประจำปี",
+    "thaiReading": "แอน-นิว-อัล",
+    "type": "adjective",
+    "level": "A2",
+    "example": "We have an annual meeting in March.",
+    "exampleThai": "เรามีประชุมประจำปีในเดือนมีนาคม",
+    "synonyms": [
+      "yearly"
+    ],
+    "tags": [
+      "work",
+      "time"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 1150
+  },
+  {
+    "word": "anybody",
+    "ipa": "/ˈenibɒdi/",
+    "thaiMeaning": "ใครก็ได้",
+    "thaiReading": "เอ-นิ-บอด-ดี",
+    "type": "pronoun",
+    "level": "A2",
+    "example": "Is anybody home right now?",
+    "exampleThai": "ตอนนี้มีใครอยู่บ้านไหม",
+    "synonyms": [
+      "anyone"
+    ],
+    "tags": [
+      "people",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 740
+  },
+  {
+    "word": "anyway",
+    "ipa": "/ˈeniweɪ/",
+    "thaiMeaning": "อย่างไรก็ตาม",
+    "thaiReading": "เอ-นิ-เวย์",
+    "type": "adverb",
+    "level": "A2",
+    "example": "It is raining, but let us go anyway.",
+    "exampleThai": "ฝนตก แต่ไปกันเถอะ",
+    "synonyms": [
+      "regardless"
+    ],
+    "tags": [
+      "communication",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 560
+  },
+  {
+    "word": "apartment",
+    "ipa": "/əˈpɑːrtmənt/",
+    "thaiMeaning": "อพาร์ตเมนต์",
+    "thaiReading": "อะ-พาร์ท-เมินท์",
+    "type": "noun",
+    "level": "A2",
+    "example": "They rent a small apartment downtown.",
+    "exampleThai": "พวกเขาเช่าอพาร์ตเมนต์เล็กๆ ในใจเมือง",
+    "synonyms": [
+      "flat"
+    ],
+    "tags": [
+      "home",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 690
+  },
+  {
+    "word": "apologize",
+    "ipa": "/əˈpɒlədʒaɪz/",
+    "thaiMeaning": "ขอโทษ",
+    "thaiReading": "อะ-พอ-ลา-ไจซ์",
+    "type": "verb",
+    "level": "A2",
+    "example": "I apologize for being late.",
+    "exampleThai": "ฉันขอโทษที่มาสาย",
+    "synonyms": [
+      "say sorry"
+    ],
+    "tags": [
+      "communication",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 810
+  },
+  {
+    "word": "appear",
+    "ipa": "/əˈpɪr/",
+    "thaiMeaning": "ปรากฏ",
+    "thaiReading": "อะ-เพียร์",
+    "type": "verb",
+    "level": "A2",
+    "example": "A rainbow appeared after the storm.",
+    "exampleThai": "รุ้งปรากฏหลังพายุ",
+    "synonyms": [
+      "show up"
+    ],
+    "tags": [
+      "nature",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 620
+  },
+  {
+    "word": "apply",
+    "ipa": "/əˈplaɪ/",
+    "thaiMeaning": "สมัคร, ใช้",
+    "thaiReading": "อะ-พลาย",
+    "type": "verb",
+    "level": "A2",
+    "example": "She decided to apply for the job.",
+    "exampleThai": "เธอตัดสินใจสมัครงาน",
+    "synonyms": [
+      "request"
+    ],
+    "tags": [
+      "work",
+      "education"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 670
+  },
+  {
+    "word": "appointment",
+    "ipa": "/əˈpɔɪntmənt/",
+    "thaiMeaning": "นัดหมาย",
+    "thaiReading": "อะ-พอยนท์-เมินท์",
+    "type": "noun",
+    "level": "A2",
+    "example": "I have a dentist appointment at three.",
+    "exampleThai": "ฉันมีนัดหมอฟันตอนสามโมง",
+    "synonyms": [
+      "meeting"
+    ],
+    "tags": [
+      "health",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 940
+  },
+  {
+    "word": "argument",
+    "ipa": "/ˈɑːrɡjumənt/",
+    "thaiMeaning": "การโต้เถียง",
+    "thaiReading": "อาร์-กิว-เมินท์",
+    "type": "noun",
+    "level": "A2",
+    "example": "We had an argument but made up later.",
+    "exampleThai": "เราทะเลาะกันแต่ค่อยๆ คืนดีกัน",
+    "synonyms": [
+      "disagreement"
+    ],
+    "tags": [
+      "communication",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 840
+  },
+  {
+    "word": "army",
+    "ipa": "/ˈɑːrmi/",
+    "thaiMeaning": "กองทัพ",
+    "thaiReading": "อาร์-มี่",
+    "type": "noun",
+    "level": "A2",
+    "example": "He served in the army for two years.",
+    "exampleThai": "เขารับราชการทหารสองปี",
+    "synonyms": [
+      "military"
+    ],
+    "tags": [
+      "work",
+      "society"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 1010
+  },
+  {
+    "word": "arrest",
+    "ipa": "/əˈrest/",
+    "thaiMeaning": "จับกุม",
+    "thaiReading": "อะ-เรสท์",
+    "type": "verb",
+    "level": "A2",
+    "example": "The police arrested the suspect.",
+    "exampleThai": "ตำรวจจับกุมผู้ต้องสงสัย",
+    "synonyms": [
+      "detain"
+    ],
+    "tags": [
+      "law",
+      "news"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1400
+  },
+  {
+    "word": "artist",
+    "ipa": "/ˈɑːrtɪst/",
+    "thaiMeaning": "ศิลปิน",
+    "thaiReading": "อาร์-ทิสท์",
+    "type": "noun",
+    "level": "A2",
+    "example": "The artist painted a beautiful landscape.",
+    "exampleThai": "ศิลปินวาดภาพทิวทัศน์ที่สวยงาม",
+    "synonyms": [
+      "painter"
+    ],
+    "tags": [
+      "art",
+      "work"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 960
+  },
+  {
+    "word": "ashamed",
+    "ipa": "/əˈʃeɪmd/",
+    "thaiMeaning": "อาย",
+    "thaiReading": "อะ-เชมด์",
+    "type": "adjective",
+    "level": "A2",
+    "example": "He felt ashamed of his mistake.",
+    "exampleThai": "เขารู้สึกอายกับความผิดพลาด",
+    "synonyms": [
+      "embarrassed"
+    ],
+    "tags": [
+      "feelings",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 1080
+  },
+  {
+    "word": "aside",
+    "ipa": "/əˈsaɪd/",
+    "thaiMeaning": "ไว้ข้างๆ",
+    "thaiReading": "อะ-ไซด์",
+    "type": "adverb",
+    "level": "A2",
+    "example": "She stepped aside to let people pass.",
+    "exampleThai": "เธอขยับไปข้างเพื่อให้คนอื่นผ่าน",
+    "synonyms": [
+      "apart"
+    ],
+    "tags": [
+      "movement",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 1220
+  },
+  {
+    "word": "asleep",
+    "ipa": "/əˈsliːp/",
+    "thaiMeaning": "หลับ",
+    "thaiReading": "อะ-สลีพ",
+    "type": "adjective",
+    "level": "A2",
+    "example": "The baby is asleep in the crib.",
+    "exampleThai": "ทารกหลับอยู่ในเปล",
+    "synonyms": [
+      "sleeping"
+    ],
+    "tags": [
+      "health",
+      "family"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 830
+  },
+  {
+    "word": "assistant",
+    "ipa": "/əˈsɪstənt/",
+    "thaiMeaning": "ผู้ช่วย",
+    "thaiReading": "อะ-ซิส-เทินท์",
+    "type": "noun",
+    "level": "A2",
+    "example": "She works as a shop assistant.",
+    "exampleThai": "เธอทำงานเป็นพนักงานขายในร้าน",
+    "synonyms": [
+      "helper"
+    ],
+    "tags": [
+      "work",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 990
+  },
+  {
+    "word": "assume",
+    "ipa": "/əˈsuːm/",
+    "thaiMeaning": "สมมติ",
+    "thaiReading": "อะ-ซูม",
+    "type": "verb",
+    "level": "A2",
+    "example": "Do not assume everyone agrees with you.",
+    "exampleThai": "อย่าคิดว่าทุกคนเห็นด้วยกับคุณ",
+    "synonyms": [
+      "suppose"
+    ],
+    "tags": [
+      "communication",
+      "daily"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1280
+  },
+  {
+    "word": "atmosphere",
+    "ipa": "/ˈætməsfɪr/",
+    "thaiMeaning": "บรรยากาศ",
+    "thaiReading": "แอท-มอส-ฟียร์",
+    "type": "noun",
+    "level": "A2",
+    "example": "The restaurant has a friendly atmosphere.",
+    "exampleThai": "ร้านอาหารมีบรรยากาศเป็นมิตร",
+    "synonyms": [
+      "ambience"
+    ],
+    "tags": [
+      "social",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 1120
+  },
+  {
+    "word": "attach",
+    "ipa": "/əˈtætʃ/",
+    "thaiMeaning": "แนบ",
+    "thaiReading": "อะ-แทช",
+    "type": "verb",
+    "level": "A2",
+    "example": "Please attach the file to your email.",
+    "exampleThai": "กรุณาแนบไฟล์ในอีเมลของคุณ",
+    "synonyms": [
+      "include"
+    ],
+    "tags": [
+      "technology",
+      "work"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 1060
+  },
+  {
+    "word": "attack",
+    "ipa": "/əˈtæk/",
+    "thaiMeaning": "โจมตี",
+    "thaiReading": "อะ-แทค",
+    "type": "verb",
+    "level": "A2",
+    "example": "Hackers tried to attack the website.",
+    "exampleThai": "แฮกเกอร์พยายามโจมตีเว็บไซต์",
+    "synonyms": [
+      "strike"
+    ],
+    "tags": [
+      "technology",
+      "news"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1180
+  },
+  {
+    "word": "attempt",
+    "ipa": "/əˈtempt/",
+    "thaiMeaning": "พยายาม",
+    "thaiReading": "อะ-เทมพ์",
+    "type": "verb",
+    "level": "A2",
+    "example": "He will attempt the exam again next month.",
+    "exampleThai": "เขาจะสอบใหม่อีกครั้งเดือนหน้า",
+    "synonyms": [
+      "try"
+    ],
+    "tags": [
+      "education",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 910
+  },
+  {
+    "word": "attend",
+    "ipa": "/əˈtend/",
+    "thaiMeaning": "เข้าร่วม",
+    "thaiReading": "อะ-เทนด์",
+    "type": "verb",
+    "level": "A2",
+    "example": "Over fifty people attended the workshop.",
+    "exampleThai": "มีคนเข้าร่วมเวิร์กช็อปกว่าห้าสิบคน",
+    "synonyms": [
+      "join"
+    ],
+    "tags": [
+      "work",
+      "education"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 850
+  },
+  {
+    "word": "attention",
+    "ipa": "/əˈtenʃn/",
+    "thaiMeaning": "ความสนใจ",
+    "thaiReading": "อะ-เทน-ชัน",
+    "type": "noun",
+    "level": "A2",
+    "example": "Pay attention to the road while driving.",
+    "exampleThai": "จดจ่อกับถนนขณะขับรถ",
+    "synonyms": [
+      "focus"
+    ],
+    "tags": [
+      "education",
+      "travel"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 630
+  },
+  {
+    "word": "audience",
+    "ipa": "/ˈɔːdiəns/",
+    "thaiMeaning": "ผู้ชม",
+    "thaiReading": "ออ-ดิเอนซ์",
+    "type": "noun",
+    "level": "A2",
+    "example": "The audience clapped loudly at the end.",
+    "exampleThai": "ผู้ชมปรบมือดังๆ ตอนจบ",
+    "synonyms": [
+      "crowd"
+    ],
+    "tags": [
+      "entertainment",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 970
+  },
+  {
+    "word": "author",
+    "ipa": "/ˈɔːθər/",
+    "thaiMeaning": "ผู้เขียน",
+    "thaiReading": "ออ-เธอร์",
+    "type": "noun",
+    "level": "A2",
+    "example": "The author signed books at the store.",
+    "exampleThai": "ผู้เขียนเซ็นหนังสือที่ร้าน",
+    "synonyms": [
+      "writer"
+    ],
+    "tags": [
+      "literature",
+      "work"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 1030
+  },
+  {
+    "word": "average",
+    "ipa": "/ˈævərɪdʒ/",
+    "thaiMeaning": "เฉลี่ย",
+    "thaiReading": "แอ-เวอ-ริจ",
+    "type": "adjective",
+    "level": "A2",
+    "example": "The average temperature here is mild.",
+    "exampleThai": "อุณหภูมิเฉลี่ยที่นี่อบอุ่น",
+    "synonyms": [
+      "typical"
+    ],
+    "tags": [
+      "weather",
+      "math"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 760
+  },
+  {
+    "word": "avoid",
+    "ipa": "/əˈvɔɪd/",
+    "thaiMeaning": "หลีกเลี่ยง",
+    "thaiReading": "อะ-วอยด์",
+    "type": "verb",
+    "level": "A2",
+    "example": "Try to avoid eating too much sugar.",
+    "exampleThai": "พยายามหลีกเลี่ยงการกินน้ำตาลมากเกินไป",
+    "synonyms": [
+      "stay away"
+    ],
+    "tags": [
+      "health",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 590
+  },
+  {
+    "word": "awake",
+    "ipa": "/əˈweɪk/",
+    "thaiMeaning": "ตื่น",
+    "thaiReading": "อะ-เวค",
+    "type": "adjective",
+    "level": "A2",
+    "example": "I was still awake at midnight.",
+    "exampleThai": "ฉันยังตื่นอยู่เที่ยงคืน",
+    "synonyms": [
+      "not sleeping"
+    ],
+    "tags": [
+      "health",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 870
+  },
+  {
+    "word": "award",
+    "ipa": "/əˈwɔːrd/",
+    "thaiMeaning": "รางวัล",
+    "thaiReading": "อะ-วอร์ด",
+    "type": "noun",
+    "level": "A2",
+    "example": "She won an award for her research.",
+    "exampleThai": "เธอได้รับรางวัลจากงานวิจัย",
+    "synonyms": [
+      "prize"
+    ],
+    "tags": [
+      "work",
+      "success"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 930
+  },
+  {
+    "word": "aware",
+    "ipa": "/əˈwer/",
+    "thaiMeaning": "ตระหนัก",
+    "thaiReading": "อะ-แวร์",
+    "type": "adjective",
+    "level": "A2",
+    "example": "Are you aware of the new rules?",
+    "exampleThai": "คุณทราบกฎใหม่หรือไม่",
+    "synonyms": [
+      "conscious"
+    ],
+    "tags": [
+      "communication",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 810
+  },
+  {
+    "word": "awful",
+    "ipa": "/ˈɔːfl/",
+    "thaiMeaning": "แย่มาก",
+    "thaiReading": "ออ-ฟูล",
+    "type": "adjective",
+    "level": "A2",
+    "example": "The weather was awful all weekend.",
+    "exampleThai": "สภาพอากาศแย่มากตลอดสุดสัปดาห์",
+    "synonyms": [
+      "terrible"
+    ],
+    "tags": [
+      "weather",
+      "feelings"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 740
+  },
+  {
+    "word": "background",
+    "ipa": "/ˈbækɡraʊnd/",
+    "thaiMeaning": "พื้นหลัง, ประวัติ",
+    "thaiReading": "แบ็ค-กราวนด์",
+    "type": "noun",
+    "level": "A2",
+    "example": "Tell me about your educational background.",
+    "exampleThai": "เล่าประวัติการศึกษาของคุณให้ฟังหน่อย",
+    "synonyms": [
+      "history"
+    ],
+    "tags": [
+      "work",
+      "education"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 880
+  },
+  {
+    "word": "badly",
+    "ipa": "/ˈbædli/",
+    "thaiMeaning": "อย่างเลวร้าย",
+    "thaiReading": "แบด-ลี่",
+    "type": "adverb",
+    "level": "A2",
+    "example": "He was badly hurt in the fall.",
+    "exampleThai": "เขาเจ็บหนักจากการล้ม",
+    "synonyms": [
+      "severely"
+    ],
+    "tags": [
+      "health",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 790
+  },
+  {
+    "word": "bake",
+    "ipa": "/beɪk/",
+    "thaiMeaning": "อบ",
+    "thaiReading": "เบค",
+    "type": "verb",
+    "level": "A2",
+    "example": "She loves to bake bread on Sundays.",
+    "exampleThai": "เธอชอบอบขนมปังวันอาทิตย์",
+    "synonyms": [
+      "cook"
+    ],
+    "tags": [
+      "food",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 1010
+  },
+  {
+    "word": "balance",
+    "ipa": "/ˈbæləns/",
+    "thaiMeaning": "สมดุล",
+    "thaiReading": "แบล-เลินซ์",
+    "type": "noun",
+    "level": "A2",
+    "example": "Good balance is important in yoga.",
+    "exampleThai": "สมดุลที่ดีสำคัญในยูคะ",
+    "synonyms": [
+      "stability"
+    ],
+    "tags": [
+      "health",
+      "sport"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 950
+  },
+  {
+    "word": "balloon",
+    "ipa": "/bəˈluːn/",
+    "thaiMeaning": "ลูกโป่ง",
+    "thaiReading": "บะ-ลูน",
+    "type": "noun",
+    "level": "A2",
+    "example": "The children played with colorful balloons.",
+    "exampleThai": "เด็กๆ เล่นลูกโป่งหลากสี",
+    "synonyms": [
+      "inflatable"
+    ],
+    "tags": [
+      "party",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 1180
+  },
+  {
+    "word": "band",
+    "ipa": "/bænd/",
+    "thaiMeaning": "วงดนตรี",
+    "thaiReading": "แบนด์",
+    "type": "noun",
+    "level": "A2",
+    "example": "A live band played at the wedding.",
+    "exampleThai": "วงดนตรีสดเล่นในงานแต่ง",
+    "synonyms": [
+      "group"
+    ],
+    "tags": [
+      "music",
+      "social"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 720
+  },
+  {
+    "word": "bank",
+    "ipa": "/bæŋk/",
+    "thaiMeaning": "ธนาคาร",
+    "thaiReading": "แบงค์",
+    "type": "noun",
+    "level": "A2",
+    "example": "I need to go to the bank this afternoon.",
+    "exampleThai": "ฉันต้องไปธนาคารบ่ายนี้",
+    "synonyms": [
+      "financial institution"
+    ],
+    "tags": [
+      "money",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 320
+  },
+  {
+    "word": "bar",
+    "ipa": "/bɑːr/",
+    "thaiMeaning": "บาร์",
+    "thaiReading": "บาร์",
+    "type": "noun",
+    "level": "A2",
+    "example": "We met at a bar near the station.",
+    "exampleThai": "เราเจอกันที่บาร์ใกล้สถานี",
+    "synonyms": [
+      "pub"
+    ],
+    "tags": [
+      "social",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 680
+  },
+  {
+    "word": "base",
+    "ipa": "/beɪs/",
+    "thaiMeaning": "ฐาน",
+    "thaiReading": "เบส",
+    "type": "noun",
+    "level": "A2",
+    "example": "The lamp has a heavy metal base.",
+    "exampleThai": "โคมไฟมีฐานโลหะหนัก",
+    "synonyms": [
+      "foundation"
+    ],
+    "tags": [
+      "home",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 840
+  },
+  {
+    "word": "basic",
+    "ipa": "/ˈbeɪsɪk/",
+    "thaiMeaning": "พื้นฐาน",
+    "thaiReading": "เบส-สิค",
+    "type": "adjective",
+    "level": "A2",
+    "example": "You need basic computer skills for this job.",
+    "exampleThai": "งานนี้ต้องมีทักษะคอมพิวเตอร์พื้นฐาน",
+    "synonyms": [
+      "fundamental"
+    ],
+    "tags": [
+      "work",
+      "education"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 510
+  },
+  {
+    "word": "basis",
+    "ipa": "/ˈbeɪsɪs/",
+    "thaiMeaning": "พื้นฐาน",
+    "thaiReading": "เบส-ซิส",
+    "type": "noun",
+    "level": "A2",
+    "example": "We meet on a weekly basis.",
+    "exampleThai": "เราเจอกันทุกสัปดาห์",
+    "synonyms": [
+      "foundation"
+    ],
+    "tags": [
+      "work",
+      "time"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1200
+  },
+  {
+    "word": "basket",
+    "ipa": "/ˈbæskɪt/",
+    "thaiMeaning": "ตะกร้า",
+    "thaiReading": "บาส-เก็ต",
+    "type": "noun",
+    "level": "A2",
+    "example": "She put the fruit in a wicker basket.",
+    "exampleThai": "เธอใส่ผลไม้ในตะกร้าหวาย",
+    "synonyms": [
+      "container"
+    ],
+    "tags": [
+      "shopping",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 1090
+  },
+  {
+    "word": "bath",
+    "ipa": "/bæθ/",
+    "thaiMeaning": "อาบน้ำ",
+    "thaiReading": "แบธ",
+    "type": "noun",
+    "level": "A2",
+    "example": "I like to take a warm bath at night.",
+    "exampleThai": "ฉันชอบแช่น้ำอุ่นตอนกลางคืน",
+    "synonyms": [
+      "bathtub"
+    ],
+    "tags": [
+      "home",
+      "health"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 640
+  },
+  {
+    "word": "battle",
+    "ipa": "/ˈbætl/",
+    "thaiMeaning": "การต่อสู้",
+    "thaiReading": "แบท-เทิล",
+    "type": "noun",
+    "level": "A2",
+    "example": "The team won an important battle yesterday.",
+    "exampleThai": "ทีมชนะการแข่งขันสำคัญเมื่อวาน",
+    "synonyms": [
+      "fight"
+    ],
+    "tags": [
+      "sport",
+      "history"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 980
+  },
+  {
+    "word": "beach",
+    "ipa": "/biːtʃ/",
+    "thaiMeaning": "ชายหาด",
+    "thaiReading": "บีช",
+    "type": "noun",
+    "level": "A2",
+    "example": "We spent the day at the beach.",
+    "exampleThai": "เราใช้เวลาทั้งวันที่ชายหาด",
+    "synonyms": [
+      "shore"
+    ],
+    "tags": [
+      "travel",
+      "leisure"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 450
+  },
+  {
+    "word": "bean",
+    "ipa": "/biːn/",
+    "thaiMeaning": "ถั่ว",
+    "thaiReading": "บีน",
+    "type": "noun",
+    "level": "A2",
+    "example": "Add beans to the soup for protein.",
+    "exampleThai": "ใส่ถั่วในซุปเพื่อโปรตีน",
+    "synonyms": [
+      "legume"
+    ],
+    "tags": [
+      "food",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 1120
+  },
+  {
+    "word": "bear",
+    "ipa": "/ber/",
+    "thaiMeaning": "หมี",
+    "thaiReading": "แบร์",
+    "type": "noun",
+    "level": "A2",
+    "example": "We saw a bear in the national park.",
+    "exampleThai": "เราเห็นหมีในอุทยานแห่งชาติ",
+    "synonyms": [
+      "grizzly"
+    ],
+    "tags": [
+      "animals",
+      "nature"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 1050
+  },
+  {
+    "word": "beat",
+    "ipa": "/biːt/",
+    "thaiMeaning": "ตี, ชนะ",
+    "thaiReading": "บีท",
+    "type": "verb",
+    "level": "A2",
+    "example": "Our team beat the champions last night.",
+    "exampleThai": "ทีมเราชนะแชมป์เมื่อคืน",
+    "synonyms": [
+      "defeat"
+    ],
+    "tags": [
+      "sport",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 580
+  },
+  {
+    "word": "beauty",
+    "ipa": "/ˈbjuːti/",
+    "thaiMeaning": "ความงาม",
+    "thaiReading": "บิว-ที",
+    "type": "noun",
+    "level": "A2",
+    "example": "The beauty of the sunset took my breath away.",
+    "exampleThai": "ความงามของพระอาทิตย์ตกทำให้ฉันประทับใจ",
+    "synonyms": [
+      "loveliness"
+    ],
+    "tags": [
+      "nature",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 820
+  },
+  {
+    "word": "because",
+    "ipa": "/bɪˈkɒz/",
+    "thaiMeaning": "เพราะว่า",
+    "thaiReading": "บี-คอส",
+    "type": "conjunction",
+    "level": "A2",
+    "example": "I stayed home because I was sick.",
+    "exampleThai": "ฉันอยู่บ้านเพราะป่วย",
+    "synonyms": [
+      "since"
+    ],
+    "tags": [
+      "grammar",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 180
+  },
+  {
+    "word": "become",
+    "ipa": "/bɪˈkʌm/",
+    "thaiMeaning": "กลายเป็น",
+    "thaiReading": "บี-คัม",
+    "type": "verb",
+    "level": "A2",
+    "example": "She wants to become a doctor.",
+    "exampleThai": "เธออยากเป็นหมอ",
+    "synonyms": [
+      "turn into"
+    ],
+    "tags": [
+      "work",
+      "education"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 340
+  },
+  {
+    "word": "bedroom",
+    "ipa": "/ˈbedruːm/",
+    "thaiMeaning": "ห้องนอน",
+    "thaiReading": "เบด-รูม",
+    "type": "noun",
+    "level": "A2",
+    "example": "My bedroom is on the second floor.",
+    "exampleThai": "ห้องนอนของฉันอยู่ชั้นสอง",
+    "synonyms": [
+      "room"
+    ],
+    "tags": [
+      "home",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 620
+  },
+  {
+    "word": "beef",
+    "ipa": "/biːf/",
+    "thaiMeaning": "เนื้อวัว",
+    "thaiReading": "บีฟ",
+    "type": "noun",
+    "level": "A2",
+    "example": "He ordered beef steak for dinner.",
+    "exampleThai": "เขาสั่งสเต็กเนื้อเป็นมื้อเย็น",
+    "synonyms": [
+      "meat"
+    ],
+    "tags": [
+      "food",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 890
+  },
+  {
+    "word": "before",
+    "ipa": "/bɪˈfɔːr/",
+    "thaiMeaning": "ก่อน",
+    "thaiReading": "บี-ฟอร์",
+    "type": "preposition",
+    "level": "A2",
+    "example": "Wash your hands before eating.",
+    "exampleThai": "ล้างมือก่อนกิน",
+    "synonyms": [
+      "prior to"
+    ],
+    "tags": [
+      "time",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 150
+  },
+  {
+    "word": "behave",
+    "ipa": "/bɪˈheɪv/",
+    "thaiMeaning": "ประพฤติตัว",
+    "thaiReading": "บี-เฮฟ",
+    "type": "verb",
+    "level": "A2",
+    "example": "Please behave well at the party.",
+    "exampleThai": "กรุณาประพฤติตัวดีในงานปาร์ตี้",
+    "synonyms": [
+      "act"
+    ],
+    "tags": [
+      "social",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 860
+  },
+  {
+    "word": "behaviour",
+    "ipa": "/bɪˈheɪvjər/",
+    "thaiMeaning": "พฤติกรรม",
+    "thaiReading": "บี-เฮฟ-เวียร์",
+    "type": "noun",
+    "level": "A2",
+    "example": "His behaviour improved after the talk.",
+    "exampleThai": "พฤติกรรมของเขาดีขึ้นหลังคุยกัน",
+    "synonyms": [
+      "conduct"
+    ],
+    "tags": [
+      "education",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 910
+  },
+  {
+    "word": "believe",
+    "ipa": "/bɪˈliːv/",
+    "thaiMeaning": "เชื่อ",
+    "thaiReading": "บี-ลีฟ",
+    "type": "verb",
+    "level": "A2",
+    "example": "I believe you can do it.",
+    "exampleThai": "ฉันเชื่อว่าคุณทำได้",
+    "synonyms": [
+      "trust"
+    ],
+    "tags": [
+      "communication",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 280
+  },
+  {
+    "word": "belong",
+    "ipa": "/bɪˈlɒŋ/",
+    "thaiMeaning": "เป็นของ",
+    "thaiReading": "บี-ลอง",
+    "type": "verb",
+    "level": "A2",
+    "example": "This bag belongs to my sister.",
+    "exampleThai": "กระเป๋าใบนี้เป็นของน้องสาวฉัน",
+    "synonyms": [
+      "be owned"
+    ],
+    "tags": [
+      "daily",
+      "home"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 770
+  },
+  {
+    "word": "below",
+    "ipa": "/bɪˈloʊ/",
+    "thaiMeaning": "ด้านล่าง",
+    "thaiReading": "บี-โลว์",
+    "type": "preposition",
+    "level": "A2",
+    "example": "The temperature dropped below zero.",
+    "exampleThai": "อุณหภูมิต่ำกว่าศูนย์",
+    "synonyms": [
+      "under"
+    ],
+    "tags": [
+      "weather",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 540
+  },
+  {
+    "word": "belt",
+    "ipa": "/belt/",
+    "thaiMeaning": "เข็มขัด",
+    "thaiReading": "เบลท์",
+    "type": "noun",
+    "level": "A2",
+    "example": "He wore a leather belt with his jeans.",
+    "exampleThai": "เขาใส่เข็มขัดหนังกับกางเกงยีนส์",
+    "synonyms": [
+      "strap"
+    ],
+    "tags": [
+      "clothing",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 980
+  },
+  {
+    "word": "benefit",
+    "ipa": "/ˈbenɪfɪt/",
+    "thaiMeaning": "ประโยชน์",
+    "thaiReading": "เบน-นิ-ฟิท",
+    "type": "noun",
+    "level": "A2",
+    "example": "Exercise has many health benefits.",
+    "exampleThai": "การออกกำลังกายมีประโยชน์ต่อสุขภาพมาก",
+    "synonyms": [
+      "advantage"
+    ],
+    "tags": [
+      "health",
+      "work"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 720
+  },
+  {
+    "word": "beside",
+    "ipa": "/bɪˈsaɪd/",
+    "thaiMeaning": "ข้างๆ",
+    "thaiReading": "บี-ไซด์",
+    "type": "preposition",
+    "level": "A2",
+    "example": "Sit beside me, please.",
+    "exampleThai": "นั่งข้างฉันหน่อย",
+    "synonyms": [
+      "next to"
+    ],
+    "tags": [
+      "place",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 680
+  },
+  {
+    "word": "besides",
+    "ipa": "/bɪˈsaɪdz/",
+    "thaiMeaning": "นอกจากนี้",
+    "thaiReading": "บี-ไซด์ส์",
+    "type": "adverb",
+    "level": "A2",
+    "example": "Besides English, she speaks French.",
+    "exampleThai": "นอกจากภาษาอังกฤษ เธอยังพูดภาษาฝรั่งเศส",
+    "synonyms": [
+      "also"
+    ],
+    "tags": [
+      "language",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 1020
+  },
+  {
+    "word": "bet",
+    "ipa": "/bet/",
+    "thaiMeaning": "เดิมพัน",
+    "thaiReading": "เบ็ท",
+    "type": "verb",
+    "level": "A2",
+    "example": "I bet it will rain tomorrow.",
+    "exampleThai": "ฉันวางว่าพรุ่งนี้ฝนจะตก",
+    "synonyms": [
+      "wager"
+    ],
+    "tags": [
+      "daily",
+      "communication"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 940
+  },
+  {
+    "word": "beyond",
+    "ipa": "/bɪˈjɒnd/",
+    "thaiMeaning": "เกินกว่า",
+    "thaiReading": "บี-ยอนด์",
+    "type": "preposition",
+    "level": "A2",
+    "example": "The hills are just beyond the river.",
+    "exampleThai": "เนินเขาอยู่เหนือแม่น้ำไปอีกนิด",
+    "synonyms": [
+      "past"
+    ],
+    "tags": [
+      "place",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 1080
+  },
+  {
+    "word": "bill",
+    "ipa": "/bɪl/",
+    "thaiMeaning": "บิล, ใบแจ้งหนี้",
+    "thaiReading": "บิล",
+    "type": "noun",
+    "level": "A2",
+    "example": "Can we have the bill, please?",
+    "exampleThai": "ขอบิลหน่อยครับ",
+    "synonyms": [
+      "check"
+    ],
+    "tags": [
+      "restaurant",
+      "money"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 460
+  },
+  {
+    "word": "billion",
+    "ipa": "/ˈbɪljən/",
+    "thaiMeaning": "พันล้าน",
+    "thaiReading": "บิล-เลียน",
+    "type": "number",
+    "level": "A2",
+    "example": "The company is worth billions of dollars.",
+    "exampleThai": "บริษัทมีมูลค่าหลายพันล้านดอลลาร์",
+    "synonyms": [
+      "1000000000"
+    ],
+    "tags": [
+      "money",
+      "business"
+    ],
+    "difficulty": 3,
+    "frequencyRank": 1350
+  },
+  {
+    "word": "biology",
+    "ipa": "/baɪˈɒlədʒi/",
+    "thaiMeaning": "ชีววิทยา",
+    "thaiReading": "ไบ-ออ-ลา-จี",
+    "type": "noun",
+    "level": "A2",
+    "example": "She enjoys studying biology at school.",
+    "exampleThai": "เธอชอบเรียนชีววิทยาที่โรงเรียน",
+    "synonyms": [
+      "life science"
+    ],
+    "tags": [
+      "education",
+      "science"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 1150
+  },
+  {
+    "word": "birth",
+    "ipa": "/bɜːrθ/",
+    "thaiMeaning": "การเกิด",
+    "thaiReading": "เบิร์ธ",
+    "type": "noun",
+    "level": "A2",
+    "example": "They celebrated the birth of their son.",
+    "exampleThai": "พวกเขาฉลองการเกิดของลูกชาย",
+    "synonyms": [
+      "delivery"
+    ],
+    "tags": [
+      "family",
+      "health"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 810
+  },
+  {
+    "word": "bit",
+    "ipa": "/bɪt/",
+    "thaiMeaning": "นิดหน่อย",
+    "thaiReading": "บิท",
+    "type": "noun",
+    "level": "A2",
+    "example": "Wait a bit. I am almost ready.",
+    "exampleThai": "รอแป๊บ ฉันเกือบพร้อมแล้ว",
+    "synonyms": [
+      "little"
+    ],
+    "tags": [
+      "time",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 420
+  },
+  {
+    "word": "bite",
+    "ipa": "/baɪt/",
+    "thaiMeaning": "กัด",
+    "thaiReading": "ไบท์",
+    "type": "verb",
+    "level": "A2",
+    "example": "The dog might bite if you scare it.",
+    "exampleThai": "สุนัขอาจกัดถ้าคุณทำให้มันกลัว",
+    "synonyms": [
+      "nip"
+    ],
+    "tags": [
+      "animals",
+      "health"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 870
+  },
+  {
+    "word": "blame",
+    "ipa": "/bleɪm/",
+    "thaiMeaning": "ตำหนิ",
+    "thaiReading": "เบลม",
+    "type": "verb",
+    "level": "A2",
+    "example": "Do not blame others for your mistakes.",
+    "exampleThai": "อย่าตำหนิคนอื่นเพราะความผิดของคุณ",
+    "synonyms": [
+      "accuse"
+    ],
+    "tags": [
+      "communication",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 960
+  },
+  {
+    "word": "blank",
+    "ipa": "/blæŋk/",
+    "thaiMeaning": "ว่างเปล่า",
+    "thaiReading": "แบลงค์",
+    "type": "adjective",
+    "level": "A2",
+    "example": "Leave the last line blank.",
+    "exampleThai": "เว้นบรรทัดสุดท้ายว่างไว้",
+    "synonyms": [
+      "empty"
+    ],
+    "tags": [
+      "education",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 1010
+  },
+  {
+    "word": "blanket",
+    "ipa": "/ˈblæŋkɪt/",
+    "thaiMeaning": "ผ้าห่ม",
+    "thaiReading": "แบลง-คิท",
+    "type": "noun",
+    "level": "A2",
+    "example": "It is cold, so use an extra blanket.",
+    "exampleThai": "อากาศหนาว ใช้ผ้าห่มเพิ่มอีกผืน",
+    "synonyms": [
+      "cover"
+    ],
+    "tags": [
+      "home",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 920
+  },
+  {
+    "word": "bleed",
+    "ipa": "/bliːd/",
+    "thaiMeaning": "เลือดออก",
+    "thaiReading": "บลีด",
+    "type": "verb",
+    "level": "A2",
+    "example": "His finger started to bleed after the cut.",
+    "exampleThai": "นิ้วของเขาเริ่มเลือดออกหลังถูกบาด",
+    "synonyms": [
+      "lose blood"
+    ],
+    "tags": [
+      "health",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 1180
+  },
+  {
+    "word": "blind",
+    "ipa": "/blaɪnd/",
+    "thaiMeaning": "ตาบอด",
+    "thaiReading": "ไบลด์",
+    "type": "adjective",
+    "level": "A2",
+    "example": "The guide dog helps a blind person.",
+    "exampleThai": "สุนัขนำทางช่วยคนตาบอด",
+    "synonyms": [
+      "sightless"
+    ],
+    "tags": [
+      "health",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 1100
+  },
+  {
+    "word": "block",
+    "ipa": "/blɒk/",
+    "thaiMeaning": "บล็อก, ขวาง",
+    "thaiReading": "บล็อก",
+    "type": "noun",
+    "level": "A2",
+    "example": "There is a road block ahead.",
+    "exampleThai": "มีการปิดกั้นถนนข้างหน้า",
+    "synonyms": [
+      "barrier"
+    ],
+    "tags": [
+      "travel",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 780
+  },
+  {
+    "word": "blog",
+    "ipa": "/blɒɡ/",
+    "thaiMeaning": "บล็อก",
+    "thaiReading": "บล็อก",
+    "type": "noun",
+    "level": "A2",
+    "example": "She writes a travel blog online.",
+    "exampleThai": "เธอเขียนบล็อกท่องเที่ยวออนไลน์",
+    "synonyms": [
+      "weblog"
+    ],
+    "tags": [
+      "technology",
+      "travel"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 890
+  }
+]

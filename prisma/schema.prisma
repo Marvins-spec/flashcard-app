@@ -1,0 +1,73 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Vocabulary {
+  id           String   @id @default(cuid())
+  word         String   @unique
+  ipa          String
+  thaiMeaning  String
+  thaiReading  String
+  type         String
+  level        String
+  example      String
+  exampleThai  String
+  synonyms     String   // JSON array
+  tags         String   // JSON array
+  audioUrl     String?
+  nextReview   DateTime @default(now())
+  reviewCount  Int      @default(0)
+  easeFactor   Float    @default(2.5)
+  interval     Int      @default(0)
+  lastReviewed DateTime?
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+
+  reviewHistory ReviewHistory[]
+
+  @@index([nextReview])
+  @@index([level])
+}
+
+model ReviewHistory {
+  id         String   @id @default(cuid())
+  vocabularyId String
+  rating     String
+  interval   Int
+  easeFactor Float
+  reviewedAt DateTime @default(now())
+
+  vocabulary Vocabulary @relation(fields: [vocabularyId], references: [id], onDelete: Cascade)
+
+  @@index([vocabularyId])
+  @@index([reviewedAt])
+}
+
+model Settings {
+  id        String   @id @default("default")
+  dailyGoal Int      @default(20)
+  studyMode String   @default("flip")
+  audioEnabled Boolean @default(true)
+  theme     String   @default("system")
+  locale    String   @default("en")
+  updatedAt DateTime @updatedAt
+}
+
+model Statistics {
+  id              String   @id @default("default")
+  totalReviews    Int      @default(0)
+  correctAnswers  Int      @default(0)
+  totalWordsLearned Int    @default(0)
+  streak          Int      @default(0)
+  longestStreak   Int      @default(0)
+  lastStudyDate   String?
+  todayReviews    Int      @default(0)
+  heatmapData     String   @default("[]") // JSON
+  weeklyData      String   @default("[]") // JSON
+  updatedAt       DateTime @updatedAt
+}

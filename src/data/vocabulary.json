@@ -1,0 +1,1122 @@
+[
+  {
+    "id": "1",
+    "word": "achieve",
+    "ipa": "/əˈtʃiːv/",
+    "thaiMeaning": "บรรลุ, สำเร็จ",
+    "thaiReading": "อะ-ชีฟ",
+    "type": "verb",
+    "level": "B1",
+    "example": "She worked hard to achieve her goals.",
+    "exampleThai": "เธอทำงานหนักเพื่อบรรลุเป้าหมายของเธอ",
+    "synonyms": [
+      "accomplish",
+      "complete",
+      "attain"
+    ],
+    "tags": [
+      "work",
+      "success",
+      "goals"
+    ]
+  },
+  {
+    "id": "2",
+    "word": "beautiful",
+    "ipa": "/ˈbjuːtɪfl/",
+    "thaiMeaning": "สวยงาม",
+    "thaiReading": "บิว-ที-ฟูล",
+    "type": "adjective",
+    "level": "A1",
+    "example": "The sunset was beautiful.",
+    "exampleThai": "พระอาทิตย์ตกดินสวยงาม",
+    "synonyms": [
+      "pretty",
+      "gorgeous",
+      "stunning"
+    ],
+    "tags": [
+      "appearance",
+      "nature",
+      "positive"
+    ]
+  },
+  {
+    "id": "3",
+    "word": "consider",
+    "ipa": "/kənˈsɪdər/",
+    "thaiMeaning": "พิจารณา, คำนึงถึง",
+    "thaiReading": "คอน-ซิ-เดอะ",
+    "type": "verb",
+    "level": "B1",
+    "example": "Please consider my proposal carefully.",
+    "exampleThai": "กรุณาพิจารณาข้อเสนอของฉันอย่างรอบคอบ",
+    "synonyms": [
+      "think about",
+      "contemplate",
+      "reflect"
+    ],
+    "tags": [
+      "thinking",
+      "decision",
+      "formal"
+    ]
+  },
+  {
+    "id": "4",
+    "word": "development",
+    "ipa": "/dɪˈveləpmənt/",
+    "thaiMeaning": "การพัฒนา",
+    "thaiReading": "ดิ-เว-ลอป-เมินท์",
+    "type": "noun",
+    "level": "B1",
+    "example": "The development of new technology takes time.",
+    "exampleThai": "การพัฒนาเทคโนโลยีใหม่ต้องใช้เวลา",
+    "synonyms": [
+      "growth",
+      "progress",
+      "advancement"
+    ],
+    "tags": [
+      "business",
+      "technology",
+      "change"
+    ]
+  },
+  {
+    "id": "5",
+    "word": "environment",
+    "ipa": "/ɪnˈvaɪrənmənt/",
+    "thaiMeaning": "สิ่งแวดล้อม",
+    "thaiReading": "เอ็น-ไว-รอน-เมินท์",
+    "type": "noun",
+    "level": "B1",
+    "example": "We must protect the environment.",
+    "exampleThai": "เราต้องปกป้องสิ่งแวดล้อม",
+    "synonyms": [
+      "surroundings",
+      "nature",
+      "habitat"
+    ],
+    "tags": [
+      "nature",
+      "science",
+      "ecology"
+    ]
+  },
+  {
+    "id": "6",
+    "word": "frequently",
+    "ipa": "/ˈfriːkwəntli/",
+    "thaiMeaning": "บ่อยๆ, เป็นประจำ",
+    "thaiReading": "ฟรี-เควิน-ลี่",
+    "type": "adverb",
+    "level": "B1",
+    "example": "I frequently visit my grandparents.",
+    "exampleThai": "ฉันไปเยี่ยมปู่ย่าตายายบ่อยๆ",
+    "synonyms": [
+      "often",
+      "regularly",
+      "commonly"
+    ],
+    "tags": [
+      "time",
+      "frequency"
+    ]
+  },
+  {
+    "id": "7",
+    "word": "government",
+    "ipa": "/ˈɡʌvərnmənt/",
+    "thaiMeaning": "รัฐบาล",
+    "thaiReading": "กัฟ-เวิร์น-เมินท์",
+    "type": "noun",
+    "level": "B1",
+    "example": "The government announced new policies.",
+    "exampleThai": "รัฐบาลประกาศนโยบายใหม่",
+    "synonyms": [
+      "administration",
+      "authority",
+      "regime"
+    ],
+    "tags": [
+      "politics",
+      "society",
+      "formal"
+    ]
+  },
+  {
+    "id": "8",
+    "word": "happiness",
+    "ipa": "/ˈhæpinəs/",
+    "thaiMeaning": "ความสุข",
+    "thaiReading": "แฮ้พ-ปิ-เนส",
+    "type": "noun",
+    "level": "A2",
+    "example": "Money cannot buy happiness.",
+    "exampleThai": "เงินซื้อความสุขไม่ได้",
+    "synonyms": [
+      "joy",
+      "pleasure",
+      "contentment"
+    ],
+    "tags": [
+      "emotion",
+      "positive",
+      "life"
+    ]
+  },
+  {
+    "id": "9",
+    "word": "important",
+    "ipa": "/ɪmˈpɔːrtənt/",
+    "thaiMeaning": "สำคัญ",
+    "thaiReading": "อิม-พอร์-เทิน",
+    "type": "adjective",
+    "level": "A2",
+    "example": "Education is important for success.",
+    "exampleThai": "การศึกษาสำคัญต่อความสำเร็จ",
+    "synonyms": [
+      "significant",
+      "crucial",
+      "essential"
+    ],
+    "tags": [
+      "priority",
+      "value"
+    ]
+  },
+  {
+    "id": "10",
+    "word": "journey",
+    "ipa": "/ˈdʒɜːrni/",
+    "thaiMeaning": "การเดินทาง",
+    "thaiReading": "เจอร์-นี่",
+    "type": "noun",
+    "level": "A2",
+    "example": "Life is a journey, not a destination.",
+    "exampleThai": "ชีวิตคือการเดินทาง ไม่ใช่จุดหมายปลายทาง",
+    "synonyms": [
+      "trip",
+      "voyage",
+      "travel"
+    ],
+    "tags": [
+      "travel",
+      "life",
+      "adventure"
+    ]
+  },
+  {
+    "id": "11",
+    "word": "knowledge",
+    "ipa": "/ˈnɒlɪdʒ/",
+    "thaiMeaning": "ความรู้",
+    "thaiReading": "นอล-เลจ",
+    "type": "noun",
+    "level": "B1",
+    "example": "Knowledge is power.",
+    "exampleThai": "ความรู้คือพลัง",
+    "synonyms": [
+      "understanding",
+      "wisdom",
+      "expertise"
+    ],
+    "tags": [
+      "education",
+      "learning",
+      "wisdom"
+    ]
+  },
+  {
+    "id": "12",
+    "word": "language",
+    "ipa": "/ˈlæŋɡwɪdʒ/",
+    "thaiMeaning": "ภาษา",
+    "thaiReading": "แลง-กวิจ",
+    "type": "noun",
+    "level": "A1",
+    "example": "Learning a new language opens many doors.",
+    "exampleThai": "การเรียนภาษาใหม่เปิดโอกาสมากมาย",
+    "synonyms": [
+      "tongue",
+      "speech",
+      "dialect"
+    ],
+    "tags": [
+      "communication",
+      "education",
+      "culture"
+    ]
+  },
+  {
+    "id": "13",
+    "word": "maintain",
+    "ipa": "/meɪnˈteɪn/",
+    "thaiMeaning": "รักษา, ดูแล",
+    "thaiReading": "เมน-เทน",
+    "type": "verb",
+    "level": "B2",
+    "example": "It is important to maintain good health.",
+    "exampleThai": "การรักษาสุขภาพที่ดีเป็นสิ่งสำคัญ",
+    "synonyms": [
+      "preserve",
+      "keep",
+      "sustain"
+    ],
+    "tags": [
+      "care",
+      "health",
+      "continuity"
+    ]
+  },
+  {
+    "id": "14",
+    "word": "necessary",
+    "ipa": "/ˈnesəseri/",
+    "thaiMeaning": "จำเป็น",
+    "thaiReading": "เน-เซส-เซ-รี่",
+    "type": "adjective",
+    "level": "B1",
+    "example": "Sleep is necessary for good health.",
+    "exampleThai": "การนอนหลับจำเป็นสำหรับสุขภาพที่ดี",
+    "synonyms": [
+      "essential",
+      "required",
+      "vital"
+    ],
+    "tags": [
+      "requirement",
+      "importance"
+    ]
+  },
+  {
+    "id": "15",
+    "word": "opportunity",
+    "ipa": "/ˌɒpərˈtjuːnɪti/",
+    "thaiMeaning": "โอกาส",
+    "thaiReading": "ออพ-พอร์-ทู-นิ-ที่",
+    "type": "noun",
+    "level": "B1",
+    "example": "This job is a great opportunity.",
+    "exampleThai": "งานนี้เป็นโอกาสที่ดีมาก",
+    "synonyms": [
+      "chance",
+      "prospect",
+      "opening"
+    ],
+    "tags": [
+      "career",
+      "life",
+      "positive"
+    ]
+  },
+  {
+    "id": "16",
+    "word": "practice",
+    "ipa": "/ˈpræktɪs/",
+    "thaiMeaning": "ฝึกฝน, ปฏิบัติ",
+    "thaiReading": "แพร็ค-ทิส",
+    "type": "verb",
+    "level": "A2",
+    "example": "Practice makes perfect.",
+    "exampleThai": "การฝึกฝนทำให้สมบูรณ์แบบ",
+    "synonyms": [
+      "train",
+      "rehearse",
+      "exercise"
+    ],
+    "tags": [
+      "learning",
+      "skill",
+      "improvement"
+    ]
+  },
+  {
+    "id": "17",
+    "word": "quality",
+    "ipa": "/ˈkwɒlɪti/",
+    "thaiMeaning": "คุณภาพ",
+    "thaiReading": "ควอ-ลิ-ที่",
+    "type": "noun",
+    "level": "B1",
+    "example": "Quality is more important than quantity.",
+    "exampleThai": "คุณภาพสำคัญกว่าปริมาณ",
+    "synonyms": [
+      "standard",
+      "grade",
+      "caliber"
+    ],
+    "tags": [
+      "value",
+      "standard",
+      "product"
+    ]
+  },
+  {
+    "id": "18",
+    "word": "remember",
+    "ipa": "/rɪˈmembər/",
+    "thaiMeaning": "จำได้, ระลึกถึง",
+    "thaiReading": "รี-เมม-เบอะ",
+    "type": "verb",
+    "level": "A1",
+    "example": "I will always remember this moment.",
+    "exampleThai": "ฉันจะจำช่วงเวลานี้ตลอดไป",
+    "synonyms": [
+      "recall",
+      "recollect",
+      "retain"
+    ],
+    "tags": [
+      "memory",
+      "mind",
+      "past"
+    ]
+  },
+  {
+    "id": "19",
+    "word": "successful",
+    "ipa": "/səkˈsesfʊl/",
+    "thaiMeaning": "ประสบความสำเร็จ",
+    "thaiReading": "ซัค-เซส-ฟูล",
+    "type": "adjective",
+    "level": "B1",
+    "example": "She became a successful entrepreneur.",
+    "exampleThai": "เธอกลายเป็นผู้ประกอบการที่ประสบความสำเร็จ",
+    "synonyms": [
+      "prosperous",
+      "thriving",
+      "accomplished"
+    ],
+    "tags": [
+      "achievement",
+      "career",
+      "positive"
+    ]
+  },
+  {
+    "id": "20",
+    "word": "traditional",
+    "ipa": "/trəˈdɪʃənl/",
+    "thaiMeaning": "แบบดั้งเดิม",
+    "thaiReading": "ทระ-ดิ-ชัน-นอล",
+    "type": "adjective",
+    "level": "B1",
+    "example": "They celebrated with traditional dances.",
+    "exampleThai": "พวกเขาเฉลิมฉลองด้วยการเต้นรำแบบดั้งเดิม",
+    "synonyms": [
+      "conventional",
+      "classic",
+      "customary"
+    ],
+    "tags": [
+      "culture",
+      "history",
+      "heritage"
+    ]
+  },
+  {
+    "id": "21",
+    "word": "understand",
+    "ipa": "/ˌʌndərˈstænd/",
+    "thaiMeaning": "เข้าใจ",
+    "thaiReading": "อัน-เดอะ-สแตนด์",
+    "type": "verb",
+    "level": "A1",
+    "example": "I understand your concerns.",
+    "exampleThai": "ฉันเข้าใจความกังวลของคุณ",
+    "synonyms": [
+      "comprehend",
+      "grasp",
+      "realize"
+    ],
+    "tags": [
+      "communication",
+      "learning",
+      "mind"
+    ]
+  },
+  {
+    "id": "22",
+    "word": "valuable",
+    "ipa": "/ˈvæljʊəbl/",
+    "thaiMeaning": "มีค่า",
+    "thaiReading": "แว-ลิว-อะ-เบิล",
+    "type": "adjective",
+    "level": "B1",
+    "example": "Time is our most valuable resource.",
+    "exampleThai": "เวลาเป็นทรัพยากรที่มีค่าที่สุดของเรา",
+    "synonyms": [
+      "precious",
+      "worthwhile",
+      "important"
+    ],
+    "tags": [
+      "value",
+      "worth",
+      "importance"
+    ]
+  },
+  {
+    "id": "23",
+    "word": "weather",
+    "ipa": "/ˈweðər/",
+    "thaiMeaning": "สภาพอากาศ",
+    "thaiReading": "เว-เธอะ",
+    "type": "noun",
+    "level": "A1",
+    "example": "The weather is nice today.",
+    "exampleThai": "สภาพอากาศวันนี้ดี",
+    "synonyms": [
+      "climate",
+      "conditions"
+    ],
+    "tags": [
+      "nature",
+      "daily",
+      "environment"
+    ]
+  },
+  {
+    "id": "24",
+    "word": "excellent",
+    "ipa": "/ˈeksələnt/",
+    "thaiMeaning": "ยอดเยี่ยม",
+    "thaiReading": "เอ็ก-เซล-เลินท์",
+    "type": "adjective",
+    "level": "A2",
+    "example": "You did an excellent job!",
+    "exampleThai": "คุณทำได้ยอดเยี่ยมมาก!",
+    "synonyms": [
+      "outstanding",
+      "superb",
+      "exceptional"
+    ],
+    "tags": [
+      "positive",
+      "quality",
+      "praise"
+    ]
+  },
+  {
+    "id": "25",
+    "word": "decision",
+    "ipa": "/dɪˈsɪʒn/",
+    "thaiMeaning": "การตัดสินใจ",
+    "thaiReading": "ดิ-ซิ-ชัน",
+    "type": "noun",
+    "level": "B1",
+    "example": "Making the right decision is important.",
+    "exampleThai": "การตัดสินใจที่ถูกต้องเป็นสิ่งสำคัญ",
+    "synonyms": [
+      "choice",
+      "conclusion",
+      "resolution"
+    ],
+    "tags": [
+      "thinking",
+      "choice",
+      "life"
+    ]
+  },
+  {
+    "id": "26",
+    "word": "ability",
+    "ipa": "/əˈbɪləti/",
+    "thaiMeaning": "ความสามารถ",
+    "thaiReading": "อะ-บิล-ลิ-ที่",
+    "type": "noun",
+    "level": "A2",
+    "example": "She has the ability to learn quickly.",
+    "exampleThai": "เธอมีความสามารถในการเรียนรู้ได้อย่างรวดเร็ว",
+    "synonyms": [
+      "capability",
+      "skill",
+      "talent"
+    ],
+    "tags": [
+      "skill",
+      "potential"
+    ]
+  },
+  {
+    "id": "27",
+    "word": "accept",
+    "ipa": "/əkˈsept/",
+    "thaiMeaning": "ยอมรับ",
+    "thaiReading": "แอค-เซ็ป",
+    "type": "verb",
+    "level": "A2",
+    "example": "I accept your apology.",
+    "exampleThai": "ฉันยอมรับคำขอโทษของคุณ",
+    "synonyms": [
+      "receive",
+      "agree",
+      "approve"
+    ],
+    "tags": [
+      "communication",
+      "agreement"
+    ]
+  },
+  {
+    "id": "28",
+    "word": "active",
+    "ipa": "/ˈæktɪv/",
+    "thaiMeaning": "กระตือรือร้น",
+    "thaiReading": "แอค-ทิฟ",
+    "type": "adjective",
+    "level": "A2",
+    "example": "He leads an active lifestyle.",
+    "exampleThai": "เขามีไลฟ์สไตล์ที่กระตือรือร้น",
+    "synonyms": [
+      "energetic",
+      "busy",
+      "dynamic"
+    ],
+    "tags": [
+      "health",
+      "lifestyle"
+    ]
+  },
+  {
+    "id": "29",
+    "word": "actually",
+    "ipa": "/ˈæktʃuəli/",
+    "thaiMeaning": "จริงๆ แล้ว",
+    "thaiReading": "แอค-ชู-อะ-ลี่",
+    "type": "adverb",
+    "level": "A2",
+    "example": "Actually, I disagree with you.",
+    "exampleThai": "จริงๆ แล้วฉันไม่เห็นด้วยกับคุณ",
+    "synonyms": [
+      "really",
+      "in fact",
+      "truly"
+    ],
+    "tags": [
+      "conversation",
+      "emphasis"
+    ]
+  },
+  {
+    "id": "30",
+    "word": "address",
+    "ipa": "/əˈdres/",
+    "thaiMeaning": "ที่อยู่",
+    "thaiReading": "แอด-เดรส",
+    "type": "noun",
+    "level": "A1",
+    "example": "What is your home address?",
+    "exampleThai": "ที่อยู่บ้านของคุณคืออะไร",
+    "synonyms": [
+      "location",
+      "speech"
+    ],
+    "tags": [
+      "daily",
+      "communication"
+    ]
+  },
+  {
+    "id": "31",
+    "word": "advantage",
+    "ipa": "/ədˈvɑːntɪdʒ/",
+    "thaiMeaning": "ข้อได้เปรียบ",
+    "thaiReading": "แอด-แวน-เทจ",
+    "type": "noun",
+    "level": "B1",
+    "example": "Being bilingual is an advantage.",
+    "exampleThai": "การพูดได้สองภาษเป็นข้อได้เปรียบ",
+    "synonyms": [
+      "benefit",
+      "edge",
+      "plus"
+    ],
+    "tags": [
+      "success",
+      "comparison"
+    ]
+  },
+  {
+    "id": "32",
+    "word": "adventure",
+    "ipa": "/ədˈventʃər/",
+    "thaiMeaning": "การผจญภัย",
+    "thaiReading": "แอด-เวน-เชอร์",
+    "type": "noun",
+    "level": "A2",
+    "example": "They went on an adventure in the mountains.",
+    "exampleThai": "พวกเขาไปผจญภัยบนภูเขา",
+    "synonyms": [
+      "expedition",
+      "quest",
+      "journey"
+    ],
+    "tags": [
+      "travel",
+      "excitement"
+    ]
+  },
+  {
+    "id": "33",
+    "word": "advice",
+    "ipa": "/ədˈvaɪs/",
+    "thaiMeaning": "คำแนะนำ",
+    "thaiReading": "แอด-ไวซ์",
+    "type": "noun",
+    "level": "A2",
+    "example": "Can I give you some advice?",
+    "exampleThai": "ฉันให้คำแนะนำคุณได้ไหม",
+    "synonyms": [
+      "guidance",
+      "recommendation",
+      "tip"
+    ],
+    "tags": [
+      "help",
+      "communication"
+    ]
+  },
+  {
+    "id": "34",
+    "word": "affect",
+    "ipa": "/əˈfekt/",
+    "thaiMeaning": "ส่งผลกระทบ",
+    "thaiReading": "อะ-เฟ็ก",
+    "type": "verb",
+    "level": "B2",
+    "example": "Climate change affects everyone.",
+    "exampleThai": "การเปลี่ยนแปลงสภาพภูมิอากาศส่งผลกระทบต่อทุกคน",
+    "synonyms": [
+      "influence",
+      "impact",
+      "alter"
+    ],
+    "tags": [
+      "cause",
+      "science"
+    ]
+  },
+  {
+    "id": "35",
+    "word": "afford",
+    "ipa": "/əˈfɔːrd/",
+    "thaiMeaning": "มีเงินพอซื้อ",
+    "thaiReading": "อะ-ฟอร์ด",
+    "type": "verb",
+    "level": "B1",
+    "example": "I cannot afford a new car.",
+    "exampleThai": "ฉันมีเงินไม่พอซื้อรถใหม่",
+    "synonyms": [
+      "manage",
+      "pay for",
+      "bear"
+    ],
+    "tags": [
+      "money",
+      "daily"
+    ]
+  },
+  {
+    "id": "36",
+    "word": "afraid",
+    "ipa": "/əˈfreɪd/",
+    "thaiMeaning": "กลัว",
+    "thaiReading": "อะ-เฟรด",
+    "type": "adjective",
+    "level": "A2",
+    "example": "She is afraid of spiders.",
+    "exampleThai": "เธอกลัวแมงมุม",
+    "synonyms": [
+      "scared",
+      "frightened",
+      "fearful"
+    ],
+    "tags": [
+      "emotion",
+      "fear"
+    ]
+  },
+  {
+    "id": "37",
+    "word": "agree",
+    "ipa": "/əˈɡriː/",
+    "thaiMeaning": "เห็นด้วย",
+    "thaiReading": "อะ-กรี",
+    "type": "verb",
+    "level": "A1",
+    "example": "I agree with your opinion.",
+    "exampleThai": "ฉันเห็นด้วยกับความคิดเห็นของคุณ",
+    "synonyms": [
+      "accept",
+      "consent",
+      "approve"
+    ],
+    "tags": [
+      "communication",
+      "agreement"
+    ]
+  },
+  {
+    "id": "38",
+    "word": "allow",
+    "ipa": "/əˈlaʊ/",
+    "thaiMeaning": "อนุญาต",
+    "thaiReading": "อะ-เลา",
+    "type": "verb",
+    "level": "A2",
+    "example": "Smoking is not allowed here.",
+    "exampleThai": "ห้ามสูบบุหรี่ที่นี่",
+    "synonyms": [
+      "permit",
+      "let",
+      "enable"
+    ],
+    "tags": [
+      "rules",
+      "permission"
+    ]
+  },
+  {
+    "id": "39",
+    "word": "almost",
+    "ipa": "/ˈɔːlmoʊst/",
+    "thaiMeaning": "เกือบ",
+    "thaiReading": "ออล-โมสต์",
+    "type": "adverb",
+    "level": "A2",
+    "example": "It is almost midnight.",
+    "exampleThai": "เกือบจะเที่ยงคืนแล้ว",
+    "synonyms": [
+      "nearly",
+      "practically",
+      "about"
+    ],
+    "tags": [
+      "degree",
+      "time"
+    ]
+  },
+  {
+    "id": "40",
+    "word": "alone",
+    "ipa": "/əˈloʊn/",
+    "thaiMeaning": "โดยลำพัง",
+    "thaiReading": "อะ-โลน",
+    "type": "adjective",
+    "level": "A2",
+    "example": "He lives alone in the city.",
+    "exampleThai": "เขาอยู่คนเดียวในเมือง",
+    "synonyms": [
+      "solo",
+      "by oneself",
+      "isolated"
+    ],
+    "tags": [
+      "life",
+      "emotion"
+    ]
+  },
+  {
+    "id": "41",
+    "word": "amazing",
+    "ipa": "/əˈmeɪzɪŋ/",
+    "thaiMeaning": "น่าทึ่ง",
+    "thaiReading": "อะ-เมซิง",
+    "type": "adjective",
+    "level": "A2",
+    "example": "The view was amazing.",
+    "exampleThai": "วิวน่าทึ่งมาก",
+    "synonyms": [
+      "incredible",
+      "wonderful",
+      "astonishing"
+    ],
+    "tags": [
+      "positive",
+      "emotion"
+    ]
+  },
+  {
+    "id": "42",
+    "word": "amount",
+    "ipa": "/əˈmaʊnt/",
+    "thaiMeaning": "จำนวน",
+    "thaiReading": "อะ-เมาท์",
+    "type": "noun",
+    "level": "B1",
+    "example": "A large amount of water is needed.",
+    "exampleThai": "ต้องการน้ำจำนวนมาก",
+    "synonyms": [
+      "quantity",
+      "sum",
+      "total"
+    ],
+    "tags": [
+      "measurement",
+      "math"
+    ]
+  },
+  {
+    "id": "43",
+    "word": "ancient",
+    "ipa": "/ˈeɪnʃənt/",
+    "thaiMeaning": "โบราณ",
+    "thaiReading": "เอน-เชินท์",
+    "type": "adjective",
+    "level": "B1",
+    "example": "They visited ancient temples.",
+    "exampleThai": "พวกเขาไปเยี่ยมวัดโบราณ",
+    "synonyms": [
+      "old",
+      "historic",
+      "antique"
+    ],
+    "tags": [
+      "history",
+      "culture"
+    ]
+  },
+  {
+    "id": "44",
+    "word": "announce",
+    "ipa": "/əˈnaʊns/",
+    "thaiMeaning": "ประกาศ",
+    "thaiReading": "อะ-นาวซ์",
+    "type": "verb",
+    "level": "B1",
+    "example": "The company will announce results tomorrow.",
+    "exampleThai": "บริษัทจะประกาศผลพรุ่งนี้",
+    "synonyms": [
+      "declare",
+      "reveal",
+      "publish"
+    ],
+    "tags": [
+      "news",
+      "communication"
+    ]
+  },
+  {
+    "id": "45",
+    "word": "anxious",
+    "ipa": "/ˈæŋkʃəs/",
+    "thaiMeaning": "กังวล",
+    "thaiReading": "แอง-เชียส",
+    "type": "adjective",
+    "level": "B2",
+    "example": "She felt anxious before the exam.",
+    "exampleThai": "เธอรู้สึกกังวลก่อนสอบ",
+    "synonyms": [
+      "worried",
+      "nervous",
+      "uneasy"
+    ],
+    "tags": [
+      "emotion",
+      "stress"
+    ]
+  },
+  {
+    "id": "46",
+    "word": "appreciate",
+    "ipa": "/əˈpriːʃieɪt/",
+    "thaiMeaning": "ขอบคุณ",
+    "thaiReading": "อะ-พรี-ชิเอต",
+    "type": "verb",
+    "level": "B1",
+    "example": "I appreciate your help.",
+    "exampleThai": "ฉันขอบคุณความช่วยเหลือของคุณ",
+    "synonyms": [
+      "value",
+      "thank",
+      "recognize"
+    ],
+    "tags": [
+      "gratitude",
+      "emotion"
+    ]
+  },
+  {
+    "id": "47",
+    "word": "approach",
+    "ipa": "/əˈproʊtʃ/",
+    "thaiMeaning": "แนวทาง",
+    "thaiReading": "อะ-โพรช",
+    "type": "verb",
+    "level": "B2",
+    "example": "We need a new approach to the problem.",
+    "exampleThai": "เราต้องการแนวทางใหม่ต่อปัญหา",
+    "synonyms": [
+      "method",
+      "near",
+      "strategy"
+    ],
+    "tags": [
+      "strategy",
+      "movement"
+    ]
+  },
+  {
+    "id": "48",
+    "word": "appropriate",
+    "ipa": "/əˈproʊpriət/",
+    "thaiMeaning": "เหมาะสม",
+    "thaiReading": "อะ-โพร-พรีเอต",
+    "type": "adjective",
+    "level": "B2",
+    "example": "Wear appropriate clothing for the interview.",
+    "exampleThai": "สวมเสื้อผ้าที่เหมาะสมสำหรับการสัมภาษณ์",
+    "synonyms": [
+      "suitable",
+      "proper",
+      "fitting"
+    ],
+    "tags": [
+      "formal",
+      "behavior"
+    ]
+  },
+  {
+    "id": "49",
+    "word": "argue",
+    "ipa": "/ˈɑːrɡjuː/",
+    "thaiMeaning": "โต้เถียง",
+    "thaiReading": "อาร์-กิว",
+    "type": "verb",
+    "level": "B1",
+    "example": "They argue about politics often.",
+    "exampleThai": "พวกเขามักโต้เถียงเรื่องการเมือง",
+    "synonyms": [
+      "debate",
+      "dispute",
+      "quarrel"
+    ],
+    "tags": [
+      "conflict",
+      "communication"
+    ]
+  },
+  {
+    "id": "50",
+    "word": "arrange",
+    "ipa": "/əˈreɪndʒ/",
+    "thaiMeaning": "จัดเตรียม",
+    "thaiReading": "อะ-เรนจ์",
+    "type": "verb",
+    "level": "B1",
+    "example": "Can you arrange a meeting for Monday?",
+    "exampleThai": "คุณจัดประชุมวันจันทร์ได้ไหม",
+    "synonyms": [
+      "organize",
+      "plan",
+      "set up"
+    ],
+    "tags": [
+      "planning",
+      "work"
+    ]
+  },
+  {
+    "id": "51",
+    "word": "arrive",
+    "ipa": "/əˈraɪv/",
+    "thaiMeaning": "มาถึง",
+    "thaiReading": "อะ-ไรฟ์",
+    "type": "verb",
+    "level": "A1",
+    "example": "The train will arrive at noon.",
+    "exampleThai": "รถไฟจะมาถึงตอนเที่ยง",
+    "synonyms": [
+      "reach",
+      "come",
+      "appear"
+    ],
+    "tags": [
+      "travel",
+      "time"
+    ]
+  },
+  {
+    "id": "52",
+    "word": "article",
+    "ipa": "/ˈɑːrtɪkl/",
+    "thaiMeaning": "บทความ",
+    "thaiReading": "อาร์-ทิ-เคิล",
+    "type": "noun",
+    "level": "A1",
+    "example": "I read an interesting article today.",
+    "exampleThai": "วันนี้ฉันอ่านบทความที่น่าสนใจ",
+    "synonyms": [
+      "story",
+      "piece",
+      "report"
+    ],
+    "tags": [
+      "reading",
+      "media"
+    ]
+  },
+  {
+    "id": "53",
+    "word": "attitude",
+    "ipa": "/ˈætɪtuːd/",
+    "thaiMeaning": "ทัศนคติ",
+    "thaiReading": "แอท-ทิ-ทูด",
+    "type": "noun",
+    "level": "B1",
+    "example": "A positive attitude helps you succeed.",
+    "exampleThai": "ทัศนคติเชิงบวกช่วยให้คุณประสบความสำเร็จ",
+    "synonyms": [
+      "mindset",
+      "outlook",
+      "approach"
+    ],
+    "tags": [
+      "psychology",
+      "behavior"
+    ]
+  },
+  {
+    "id": "54",
+    "word": "attract",
+    "ipa": "/əˈtrækt/",
+    "thaiMeaning": "ดึงดูด",
+    "thaiReading": "อะ-แทร็ก",
+    "type": "verb",
+    "level": "B1",
+    "example": "Bright colors attract attention.",
+    "exampleThai": "สีสันสดใสดึงดูดความสนใจ",
+    "synonyms": [
+      "draw",
+      "appeal",
+      "lure"
+    ],
+    "tags": [
+      "interest",
+      "marketing"
+    ]
+  },
+  {
+    "id": "55",
+    "word": "available",
+    "ipa": "/əˈveɪləbl/",
+    "thaiMeaning": "พร้อมใช้งาน",
+    "thaiReading": "อะ-เวล-า-เบิล",
+    "type": "adjective",
+    "level": "A2",
+    "example": "Is this seat available?",
+    "exampleThai": "ที่นั่งนี้ว่างไหม",
+    "synonyms": [
+      "free",
+      "accessible",
+      "ready"
+    ],
+    "tags": [
+      "daily",
+      "service"
+    ]
+  }
+]

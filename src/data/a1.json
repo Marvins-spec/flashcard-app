@@ -1,0 +1,1902 @@
+[
+  {
+    "word": "apple",
+    "ipa": "/ˈæpl/",
+    "thaiMeaning": "แอปเปิ้ล",
+    "thaiReading": "แอป-เปิล",
+    "type": "noun",
+    "level": "A1",
+    "example": "I eat an apple every morning.",
+    "exampleThai": "ฉันกินแอปเปิ้ลทุกเช้า",
+    "synonyms": [
+      "fruit"
+    ],
+    "tags": [
+      "food",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 120
+  },
+  {
+    "word": "banana",
+    "ipa": "/bəˈnænə/",
+    "thaiMeaning": "กล้วย",
+    "thaiReading": "บะ-แนน-นะ",
+    "type": "noun",
+    "level": "A1",
+    "example": "She bought three bananas at the market.",
+    "exampleThai": "เธอซื้อกล้วยสามลูกที่ตลาด",
+    "synonyms": [
+      "fruit"
+    ],
+    "tags": [
+      "food",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 280
+  },
+  {
+    "word": "bread",
+    "ipa": "/bred/",
+    "thaiMeaning": "ขนมปัง",
+    "thaiReading": "เบรด",
+    "type": "noun",
+    "level": "A1",
+    "example": "We need bread for breakfast.",
+    "exampleThai": "เราต้องการขนมปังสำหรับมื้อเช้า",
+    "synonyms": [
+      "loaf"
+    ],
+    "tags": [
+      "food",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 350
+  },
+  {
+    "word": "water",
+    "ipa": "/ˈwɔːtər/",
+    "thaiMeaning": "น้ำ",
+    "thaiReading": "วอเทอร์",
+    "type": "noun",
+    "level": "A1",
+    "example": "Can I have a glass of water?",
+    "exampleThai": "ขอน้ำหนึ่งแก้วได้ไหม",
+    "synonyms": [
+      "drink"
+    ],
+    "tags": [
+      "food",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 45
+  },
+  {
+    "word": "milk",
+    "ipa": "/mɪlk/",
+    "thaiMeaning": "นม",
+    "thaiReading": "มิลค์",
+    "type": "noun",
+    "level": "A1",
+    "example": "The child drinks milk before bed.",
+    "exampleThai": "เด็กดื่มนมก่อนนอน",
+    "synonyms": [
+      "dairy"
+    ],
+    "tags": [
+      "food",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 190
+  },
+  {
+    "word": "coffee",
+    "ipa": "/ˈkɒfi/",
+    "thaiMeaning": "กาแฟ",
+    "thaiReading": "คอฟ-ฟี่",
+    "type": "noun",
+    "level": "A1",
+    "example": "He drinks coffee every morning.",
+    "exampleThai": "เขาดื่มกาแฟทุกเช้า",
+    "synonyms": [
+      "espresso"
+    ],
+    "tags": [
+      "food",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 210
+  },
+  {
+    "word": "tea",
+    "ipa": "/tiː/",
+    "thaiMeaning": "ชา",
+    "thaiReading": "ที",
+    "type": "noun",
+    "level": "A1",
+    "example": "Would you like some tea?",
+    "exampleThai": "คุณอยากดื่มชาไหม",
+    "synonyms": [
+      "chai"
+    ],
+    "tags": [
+      "food",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 240
+  },
+  {
+    "word": "breakfast",
+    "ipa": "/ˈbrekfəst/",
+    "thaiMeaning": "อาหารเช้า",
+    "thaiReading": "เบรค-ฟัส",
+    "type": "noun",
+    "level": "A1",
+    "example": "Breakfast is ready on the table.",
+    "exampleThai": "อาหารเช้าพร้อมบนโต๊ะแล้ว",
+    "synonyms": [
+      "morning meal"
+    ],
+    "tags": [
+      "food",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 420
+  },
+  {
+    "word": "lunch",
+    "ipa": "/lʌntʃ/",
+    "thaiMeaning": "อาหารกลางวัน",
+    "thaiReading": "ลันช์",
+    "type": "noun",
+    "level": "A1",
+    "example": "Let us meet for lunch at noon.",
+    "exampleThai": "ไปกินข้าวกลางวันด้วยกันตอนเที่ยงนะ",
+    "synonyms": [
+      "midday meal"
+    ],
+    "tags": [
+      "food",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 380
+  },
+  {
+    "word": "dinner",
+    "ipa": "/ˈdɪnər/",
+    "thaiMeaning": "อาหารเย็น",
+    "thaiReading": "ดิน-เนอร์",
+    "type": "noun",
+    "level": "A1",
+    "example": "We had dinner with our neighbors.",
+    "exampleThai": "เรากินข้ำเย็นกับเพื่อนบ้าน",
+    "synonyms": [
+      "supper"
+    ],
+    "tags": [
+      "food",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 310
+  },
+  {
+    "word": "hungry",
+    "ipa": "/ˈhʌŋɡri/",
+    "thaiMeaning": "หิว",
+    "thaiReading": "ฮัง-กรี",
+    "type": "adjective",
+    "level": "A1",
+    "example": "I am hungry. Let us eat.",
+    "exampleThai": "ฉันหิวแล้ว ไปกินข้าวกันเถอะ",
+    "synonyms": [
+      "starving"
+    ],
+    "tags": [
+      "food",
+      "feelings"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 520
+  },
+  {
+    "word": "thirsty",
+    "ipa": "/ˈθɜːrsti/",
+    "thaiMeaning": "กระหายน้ำ",
+    "thaiReading": "เทอร์ส-ตี",
+    "type": "adjective",
+    "level": "A1",
+    "example": "It is hot and I feel thirsty.",
+    "exampleThai": "อากาศร้อน ฉันรู้สึกกระหายน้ำ",
+    "synonyms": [
+      "parched"
+    ],
+    "tags": [
+      "food",
+      "feelings"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 680
+  },
+  {
+    "word": "tired",
+    "ipa": "/ˈtaɪərd/",
+    "thaiMeaning": "เหนื่อย",
+    "thaiReading": "ไทร์ด",
+    "type": "adjective",
+    "level": "A1",
+    "example": "She was tired after work.",
+    "exampleThai": "เธอเหนื่อยหลังเลิกงาน",
+    "synonyms": [
+      "exhausted"
+    ],
+    "tags": [
+      "health",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 410
+  },
+  {
+    "word": "sad",
+    "ipa": "/sæd/",
+    "thaiMeaning": "เศร้า",
+    "thaiReading": "แซด",
+    "type": "adjective",
+    "level": "A1",
+    "example": "He felt sad when his friend left.",
+    "exampleThai": "เขารู้สึกเศร้าเมื่อเพื่อนจากไป",
+    "synonyms": [
+      "unhappy"
+    ],
+    "tags": [
+      "feelings",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 890
+  },
+  {
+    "word": "angry",
+    "ipa": "/ˈæŋɡri/",
+    "thaiMeaning": "โกรธ",
+    "thaiReading": "แอง-กรี",
+    "type": "adjective",
+    "level": "A1",
+    "example": "Do not talk to him when he is angry.",
+    "exampleThai": "อย่าคุยกับเขาตอนที่เขาโกรธ",
+    "synonyms": [
+      "mad"
+    ],
+    "tags": [
+      "feelings",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 720
+  },
+  {
+    "word": "cold",
+    "ipa": "/koʊld/",
+    "thaiMeaning": "หนาว",
+    "thaiReading": "โคลด์",
+    "type": "adjective",
+    "level": "A1",
+    "example": "It is cold outside today.",
+    "exampleThai": "วันนี้ข้างนอกหนาว",
+    "synonyms": [
+      "chilly"
+    ],
+    "tags": [
+      "weather",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 180
+  },
+  {
+    "word": "hot",
+    "ipa": "/hɒt/",
+    "thaiMeaning": "ร้อน",
+    "thaiReading": "ฮอท",
+    "type": "adjective",
+    "level": "A1",
+    "example": "The soup is too hot to eat.",
+    "exampleThai": "ซุปร้อนเกินกว่าจะกินได้",
+    "synonyms": [
+      "warm"
+    ],
+    "tags": [
+      "weather",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 150
+  },
+  {
+    "word": "warm",
+    "ipa": "/wɔːrm/",
+    "thaiMeaning": "อุ่น",
+    "thaiReading": "วอร์ม",
+    "type": "adjective",
+    "level": "A1",
+    "example": "The room feels warm and cozy.",
+    "exampleThai": "ห้องรู้สึกอุ่นและสบาย",
+    "synonyms": [
+      "mild"
+    ],
+    "tags": [
+      "weather",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 430
+  },
+  {
+    "word": "rain",
+    "ipa": "/reɪn/",
+    "thaiMeaning": "ฝน",
+    "thaiReading": "เรน",
+    "type": "noun",
+    "level": "A1",
+    "example": "Take an umbrella. It might rain.",
+    "exampleThai": "เอาร่มไปด้วย ฝนอาจจะตก",
+    "synonyms": [
+      "rainfall"
+    ],
+    "tags": [
+      "weather",
+      "nature"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 320
+  },
+  {
+    "word": "sunny",
+    "ipa": "/ˈsʌni/",
+    "thaiMeaning": "แดดจัด",
+    "thaiReading": "ซัน-นี่",
+    "type": "adjective",
+    "level": "A1",
+    "example": "It is sunny and perfect for a walk.",
+    "exampleThai": "อากาศแดดดี เหมาะสำหรับเดินเล่น",
+    "synonyms": [
+      "bright"
+    ],
+    "tags": [
+      "weather",
+      "nature"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 610
+  },
+  {
+    "word": "cloud",
+    "ipa": "/klaʊd/",
+    "thaiMeaning": "เมฆ",
+    "thaiReading": "คลาวด์",
+    "type": "noun",
+    "level": "A1",
+    "example": "Dark clouds are coming this way.",
+    "exampleThai": "เมฆดำกำลังเคลื่อนมาทางนี้",
+    "synonyms": [
+      "clouds"
+    ],
+    "tags": [
+      "weather",
+      "nature"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 740
+  },
+  {
+    "word": "wind",
+    "ipa": "/wɪnd/",
+    "thaiMeaning": "ลม",
+    "thaiReading": "วินด์",
+    "type": "noun",
+    "level": "A1",
+    "example": "The wind blew my hat away.",
+    "exampleThai": "ลมพัดหมวกของฉันหลุดไป",
+    "synonyms": [
+      "breeze"
+    ],
+    "tags": [
+      "weather",
+      "nature"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 560
+  },
+  {
+    "word": "snow",
+    "ipa": "/snoʊ/",
+    "thaiMeaning": "หิมะ",
+    "thaiReading": "สโนว์",
+    "type": "noun",
+    "level": "A1",
+    "example": "Children love playing in the snow.",
+    "exampleThai": "เด็กๆ ชอบเล่นหิมะ",
+    "synonyms": [
+      "snowfall"
+    ],
+    "tags": [
+      "weather",
+      "nature"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 980
+  },
+  {
+    "word": "morning",
+    "ipa": "/ˈmɔːrnɪŋ/",
+    "thaiMeaning": "ตอนเช้า",
+    "thaiReading": "มอร์-นิง",
+    "type": "noun",
+    "level": "A1",
+    "example": "I go jogging every morning.",
+    "exampleThai": "ฉันวิ่งจ็อกกิ้งทุกเช้า",
+    "synonyms": [
+      "dawn"
+    ],
+    "tags": [
+      "time",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 270
+  },
+  {
+    "word": "evening",
+    "ipa": "/ˈiːvnɪŋ/",
+    "thaiMeaning": "ตอนเย็น",
+    "thaiReading": "อีฟ-นิง",
+    "type": "noun",
+    "level": "A1",
+    "example": "We walk in the park every evening.",
+    "exampleThai": "เราเดินในสวนสาธารณะทุกเย็น",
+    "synonyms": [
+      "dusk"
+    ],
+    "tags": [
+      "time",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 390
+  },
+  {
+    "word": "night",
+    "ipa": "/naɪt/",
+    "thaiMeaning": "กลางคืน",
+    "thaiReading": "ไนท์",
+    "type": "noun",
+    "level": "A1",
+    "example": "Good night. Sleep well.",
+    "exampleThai": "ราตรีสวัสดิ์ นอนหลับฝันดี",
+    "synonyms": [
+      "nighttime"
+    ],
+    "tags": [
+      "time",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 220
+  },
+  {
+    "word": "today",
+    "ipa": "/təˈdeɪ/",
+    "thaiMeaning": "วันนี้",
+    "thaiReading": "ทู-เดย์",
+    "type": "adverb",
+    "level": "A1",
+    "example": "What are you doing today?",
+    "exampleThai": "วันนี้คุณทำอะไร",
+    "synonyms": [
+      "now"
+    ],
+    "tags": [
+      "time",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 95
+  },
+  {
+    "word": "tomorrow",
+    "ipa": "/təˈmɒroʊ/",
+    "thaiMeaning": "พรุ่งนี้",
+    "thaiReading": "ทู-มอร์-โรว์",
+    "type": "adverb",
+    "level": "A1",
+    "example": "See you tomorrow at school.",
+    "exampleThai": "แล้วเจอกันพรุ่งนี้ที่โรงเรียน",
+    "synonyms": [
+      "next day"
+    ],
+    "tags": [
+      "time",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 340
+  },
+  {
+    "word": "yesterday",
+    "ipa": "/ˈjestərdeɪ/",
+    "thaiMeaning": "เมื่อวาน",
+    "thaiReading": "เยส-เทอร์-เดย์",
+    "type": "adverb",
+    "level": "A1",
+    "example": "I called you yesterday evening.",
+    "exampleThai": "ฉันโทรหาคุณเมื่อวานเย็น",
+    "synonyms": [
+      "previous day"
+    ],
+    "tags": [
+      "time",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 470
+  },
+  {
+    "word": "week",
+    "ipa": "/wiːk/",
+    "thaiMeaning": "สัปดาห์",
+    "thaiReading": "วีค",
+    "type": "noun",
+    "level": "A1",
+    "example": "I work five days a week.",
+    "exampleThai": "ฉันทำงานห้าวันต่อสัปดาห์",
+    "synonyms": [
+      "seven days"
+    ],
+    "tags": [
+      "time",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 200
+  },
+  {
+    "word": "month",
+    "ipa": "/mʌnθ/",
+    "thaiMeaning": "เดือน",
+    "thaiReading": "มันธ",
+    "type": "noun",
+    "level": "A1",
+    "example": "My birthday is next month.",
+    "exampleThai": "วันเกิดของฉันอยู่เดือนหน้า",
+    "synonyms": [
+      "calendar month"
+    ],
+    "tags": [
+      "time",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 260
+  },
+  {
+    "word": "year",
+    "ipa": "/jɪr/",
+    "thaiMeaning": "ปี",
+    "thaiReading": "เยียร์",
+    "type": "noun",
+    "level": "A1",
+    "example": "Happy New Year!",
+    "exampleThai": "สวัสดีปีใหม่",
+    "synonyms": [
+      "twelve months"
+    ],
+    "tags": [
+      "time",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 110
+  },
+  {
+    "word": "hour",
+    "ipa": "/ˈaʊər/",
+    "thaiMeaning": "ชั่วโมง",
+    "thaiReading": "เอา-เออร์",
+    "type": "noun",
+    "level": "A1",
+    "example": "The movie lasts two hours.",
+    "exampleThai": "หนังยาวสองชั่วโมง",
+    "synonyms": [
+      "60 minutes"
+    ],
+    "tags": [
+      "time",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 300
+  },
+  {
+    "word": "minute",
+    "ipa": "/ˈmɪnɪt/",
+    "thaiMeaning": "นาที",
+    "thaiReading": "มิน-นิท",
+    "type": "noun",
+    "level": "A1",
+    "example": "Wait a minute, please.",
+    "exampleThai": "รอสักครู่นะ",
+    "synonyms": [
+      "moment"
+    ],
+    "tags": [
+      "time",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 360
+  },
+  {
+    "word": "early",
+    "ipa": "/ˈɜːrli/",
+    "thaiMeaning": "เร็ว",
+    "thaiReading": "เออร์-ลี่",
+    "type": "adjective",
+    "level": "A1",
+    "example": "She always wakes up early.",
+    "exampleThai": "เธอตื่นเช้าเสมอ",
+    "synonyms": [
+      "prompt"
+    ],
+    "tags": [
+      "time",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 440
+  },
+  {
+    "word": "late",
+    "ipa": "/leɪt/",
+    "thaiMeaning": "สาย",
+    "thaiReading": "เลท",
+    "type": "adjective",
+    "level": "A1",
+    "example": "Sorry, I am late for class.",
+    "exampleThai": "ขอโทษ ฉันมาสาย",
+    "synonyms": [
+      "delayed"
+    ],
+    "tags": [
+      "time",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 400
+  },
+  {
+    "word": "fast",
+    "ipa": "/fæst/",
+    "thaiMeaning": "เร็ว",
+    "thaiReading": "แฟสต์",
+    "type": "adjective",
+    "level": "A1",
+    "example": "This train is very fast.",
+    "exampleThai": "รถไฟขบวนนี้เร็วมาก",
+    "synonyms": [
+      "quick"
+    ],
+    "tags": [
+      "daily",
+      "travel"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 330
+  },
+  {
+    "word": "slow",
+    "ipa": "/sloʊ/",
+    "thaiMeaning": "ช้า",
+    "thaiReading": "โสลว์",
+    "type": "adjective",
+    "level": "A1",
+    "example": "Traffic is slow during rush hour.",
+    "exampleThai": "การจราจรช้าในช่วงเร่งด่วน",
+    "synonyms": [
+      "sluggish"
+    ],
+    "tags": [
+      "daily",
+      "travel"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 510
+  },
+  {
+    "word": "big",
+    "ipa": "/bɪɡ/",
+    "thaiMeaning": "ใหญ่",
+    "thaiReading": "บิ๊ก",
+    "type": "adjective",
+    "level": "A1",
+    "example": "They live in a big house.",
+    "exampleThai": "พวกเขาอยู่บ้านหลังใหญ่",
+    "synonyms": [
+      "large"
+    ],
+    "tags": [
+      "daily",
+      "description"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 130
+  },
+  {
+    "word": "small",
+    "ipa": "/smɔːl/",
+    "thaiMeaning": "เล็ก",
+    "thaiReading": "สมอล",
+    "type": "adjective",
+    "level": "A1",
+    "example": "I have a small bag with me.",
+    "exampleThai": "ฉันมีกระเป๋าใบเล็กติดตัว",
+    "synonyms": [
+      "little"
+    ],
+    "tags": [
+      "daily",
+      "description"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 170
+  },
+  {
+    "word": "long",
+    "ipa": "/lɔːŋ/",
+    "thaiMeaning": "ยาว",
+    "thaiReading": "ลอง",
+    "type": "adjective",
+    "level": "A1",
+    "example": "It was a long day at work.",
+    "exampleThai": "วันทำงานยาวนานมาก",
+    "synonyms": [
+      "lengthy"
+    ],
+    "tags": [
+      "daily",
+      "description"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 160
+  },
+  {
+    "word": "short",
+    "ipa": "/ʃɔːrt/",
+    "thaiMeaning": "สั้น",
+    "thaiReading": "ชอร์ต",
+    "type": "adjective",
+    "level": "A1",
+    "example": "She has short hair.",
+    "exampleThai": "เธอผมสั้น",
+    "synonyms": [
+      "brief"
+    ],
+    "tags": [
+      "daily",
+      "description"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 290
+  },
+  {
+    "word": "new",
+    "ipa": "/njuː/",
+    "thaiMeaning": "ใหม่",
+    "thaiReading": "นิว",
+    "type": "adjective",
+    "level": "A1",
+    "example": "I bought a new phone yesterday.",
+    "exampleThai": "ฉันซื้อโทรศัพท์เครื่องใหม่เมื่อวาน",
+    "synonyms": [
+      "fresh"
+    ],
+    "tags": [
+      "daily",
+      "shopping"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 125
+  },
+  {
+    "word": "young",
+    "ipa": "/jʌŋ/",
+    "thaiMeaning": "หนุ่ม, เด็ก",
+    "thaiReading": "ยัง",
+    "type": "adjective",
+    "level": "A1",
+    "example": "She is young but very talented.",
+    "exampleThai": "เธอยังเด็กแต่มีความสามารถมาก",
+    "synonyms": [
+      "youthful"
+    ],
+    "tags": [
+      "people",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 370
+  },
+  {
+    "word": "clean",
+    "ipa": "/kliːn/",
+    "thaiMeaning": "สะอาด",
+    "thaiReading": "คลีน",
+    "type": "adjective",
+    "level": "A1",
+    "example": "Please keep your room clean.",
+    "exampleThai": "กรุณารักษาห้องให้สะอาด",
+    "synonyms": [
+      "tidy"
+    ],
+    "tags": [
+      "home",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 480
+  },
+  {
+    "word": "dirty",
+    "ipa": "/ˈdɜːrti/",
+    "thaiMeaning": "สกปรก",
+    "thaiReading": "เดอร์-ตี",
+    "type": "adjective",
+    "level": "A1",
+    "example": "Your shoes are dirty from the mud.",
+    "exampleThai": "รองเท้าของคุณเลอะจากโคลน",
+    "synonyms": [
+      "filthy"
+    ],
+    "tags": [
+      "home",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 650
+  },
+  {
+    "word": "difficult",
+    "ipa": "/ˈdɪfɪkəlt/",
+    "thaiMeaning": "ยาก",
+    "thaiReading": "ดิฟ-ฟิ-คัลท์",
+    "type": "adjective",
+    "level": "A2",
+    "example": "This question is difficult for me.",
+    "exampleThai": "คำถามนี้ยากสำหรับฉัน",
+    "synonyms": [
+      "hard"
+    ],
+    "tags": [
+      "education",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 540
+  },
+  {
+    "word": "open",
+    "ipa": "/ˈoʊpən/",
+    "thaiMeaning": "เปิด",
+    "thaiReading": "โอ-เพิ่น",
+    "type": "verb",
+    "level": "A1",
+    "example": "Can you open the window?",
+    "exampleThai": "คุณเปิดหน้าต่างได้ไหม",
+    "synonyms": [
+      "unlock"
+    ],
+    "tags": [
+      "home",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 230
+  },
+  {
+    "word": "close",
+    "ipa": "/kloʊz/",
+    "thaiMeaning": "ปิด",
+    "thaiReading": "โคลส์",
+    "type": "verb",
+    "level": "A1",
+    "example": "Please close the door quietly.",
+    "exampleThai": "กรุณาปิดประตูเบาๆ",
+    "synonyms": [
+      "shut"
+    ],
+    "tags": [
+      "home",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 250
+  },
+  {
+    "word": "start",
+    "ipa": "/stɑːrt/",
+    "thaiMeaning": "เริ่ม",
+    "thaiReading": "สตาร์ท",
+    "type": "verb",
+    "level": "A1",
+    "example": "Class starts at eight o clock.",
+    "exampleThai": "คาบเรียนเริ่มแปดโมง",
+    "synonyms": [
+      "begin"
+    ],
+    "tags": [
+      "school",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 195
+  },
+  {
+    "word": "stop",
+    "ipa": "/stɒp/",
+    "thaiMeaning": "หยุด",
+    "thaiReading": "สต็อป",
+    "type": "verb",
+    "level": "A1",
+    "example": "The bus stops here.",
+    "exampleThai": "รถบัสหยุดที่นี่",
+    "synonyms": [
+      "halt"
+    ],
+    "tags": [
+      "travel",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 215
+  },
+  {
+    "word": "buy",
+    "ipa": "/baɪ/",
+    "thaiMeaning": "ซื้อ",
+    "thaiReading": "บาย",
+    "type": "verb",
+    "level": "A1",
+    "example": "I want to buy some fruit.",
+    "exampleThai": "ฉันอยากซื้อผลไม้",
+    "synonyms": [
+      "purchase"
+    ],
+    "tags": [
+      "shopping",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 140
+  },
+  {
+    "word": "sell",
+    "ipa": "/sel/",
+    "thaiMeaning": "ขาย",
+    "thaiReading": "เซล",
+    "type": "verb",
+    "level": "A1",
+    "example": "They sell fresh fish at the market.",
+    "exampleThai": "พวกเขาขายปลาสดที่ตลาด",
+    "synonyms": [
+      "offer"
+    ],
+    "tags": [
+      "shopping",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 460
+  },
+  {
+    "word": "pay",
+    "ipa": "/peɪ/",
+    "thaiMeaning": "จ่าย",
+    "thaiReading": "เพย์",
+    "type": "verb",
+    "level": "A1",
+    "example": "I will pay by card.",
+    "exampleThai": "ฉันจะจ่ายด้วยบัตร",
+    "synonyms": [
+      "settle"
+    ],
+    "tags": [
+      "shopping",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 175
+  },
+  {
+    "word": "cost",
+    "ipa": "/kɒst/",
+    "thaiMeaning": "ราคา, ค่าใช้จ่าย",
+    "thaiReading": "คอสต์",
+    "type": "verb",
+    "level": "A2",
+    "example": "How much does this shirt cost?",
+    "exampleThai": "เสื้อตัวนี้ราคาเท่าไหร่",
+    "synonyms": [
+      "price"
+    ],
+    "tags": [
+      "shopping",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 620
+  },
+  {
+    "word": "cheap",
+    "ipa": "/tʃiːp/",
+    "thaiMeaning": "ถูก",
+    "thaiReading": "ชีพ",
+    "type": "adjective",
+    "level": "A1",
+    "example": "This restaurant is cheap and good.",
+    "exampleThai": "ร้านนี้ถูกและอร่อย",
+    "synonyms": [
+      "inexpensive"
+    ],
+    "tags": [
+      "shopping",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 530
+  },
+  {
+    "word": "expensive",
+    "ipa": "/ɪkˈspensɪv/",
+    "thaiMeaning": "แพง",
+    "thaiReading": "เอ็กส์-เพน-ซิฟ",
+    "type": "adjective",
+    "level": "A2",
+    "example": "That watch looks expensive.",
+    "exampleThai": "นาฬิกาเรือนนั้นดูแพง",
+    "synonyms": [
+      "costly"
+    ],
+    "tags": [
+      "shopping",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 700
+  },
+  {
+    "word": "shop",
+    "ipa": "/ʃɒp/",
+    "thaiMeaning": "ร้านค้า",
+    "thaiReading": "ช็อป",
+    "type": "noun",
+    "level": "A1",
+    "example": "The shop opens at nine.",
+    "exampleThai": "ร้านเปิดเก้าโมง",
+    "synonyms": [
+      "store"
+    ],
+    "tags": [
+      "shopping",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 275
+  },
+  {
+    "word": "market",
+    "ipa": "/ˈmɑːrkɪt/",
+    "thaiMeaning": "ตลาด",
+    "thaiReading": "มาร์-เก็ต",
+    "type": "noun",
+    "level": "A1",
+    "example": "We buy vegetables at the market.",
+    "exampleThai": "เราซื้อผักที่ตลาด",
+    "synonyms": [
+      "bazaar"
+    ],
+    "tags": [
+      "shopping",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 355
+  },
+  {
+    "word": "street",
+    "ipa": "/striːt/",
+    "thaiMeaning": "ถนน",
+    "thaiReading": "สตรีท",
+    "type": "noun",
+    "level": "A1",
+    "example": "Our house is on a quiet street.",
+    "exampleThai": "บ้านเราอยู่บนถนนที่เงียบสงบ",
+    "synonyms": [
+      "road"
+    ],
+    "tags": [
+      "places",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 285
+  },
+  {
+    "word": "road",
+    "ipa": "/roʊd/",
+    "thaiMeaning": "ถนน",
+    "thaiReading": "โรด",
+    "type": "noun",
+    "level": "A1",
+    "example": "Be careful when you cross the road.",
+    "exampleThai": "ระวังตอนข้ามถนน",
+    "synonyms": [
+      "street"
+    ],
+    "tags": [
+      "travel",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 165
+  },
+  {
+    "word": "car",
+    "ipa": "/kɑːr/",
+    "thaiMeaning": "รถยนต์",
+    "thaiReading": "คาร์",
+    "type": "noun",
+    "level": "A1",
+    "example": "My father drives a red car.",
+    "exampleThai": "พ่อขับรถสีแดง",
+    "synonyms": [
+      "automobile"
+    ],
+    "tags": [
+      "travel",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 100
+  },
+  {
+    "word": "bus",
+    "ipa": "/bʌs/",
+    "thaiMeaning": "รถบัส",
+    "thaiReading": "บัส",
+    "type": "noun",
+    "level": "A1",
+    "example": "I take the bus to work.",
+    "exampleThai": "ฉันนั่งรถบัสไปทำงาน",
+    "synonyms": [
+      "coach"
+    ],
+    "tags": [
+      "travel",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 245
+  },
+  {
+    "word": "train",
+    "ipa": "/treɪn/",
+    "thaiMeaning": "รถไฟ",
+    "thaiReading": "เทรน",
+    "type": "noun",
+    "level": "A1",
+    "example": "The train leaves in ten minutes.",
+    "exampleThai": "รถไฟออกในอีกสิบนาที",
+    "synonyms": [
+      "railway"
+    ],
+    "tags": [
+      "travel",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 315
+  },
+  {
+    "word": "bicycle",
+    "ipa": "/ˈbaɪsɪkl/",
+    "thaiMeaning": "จักรยาน",
+    "thaiReading": "ไบ-ซิ-เคิล",
+    "type": "noun",
+    "level": "A1",
+    "example": "She rides her bicycle to school.",
+    "exampleThai": "เธอขี่จักรยานไปโรงเรียน",
+    "synonyms": [
+      "bike"
+    ],
+    "tags": [
+      "travel",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 780
+  },
+  {
+    "word": "walk",
+    "ipa": "/wɔːk/",
+    "thaiMeaning": "เดิน",
+    "thaiReading": "วอล์ค",
+    "type": "verb",
+    "level": "A1",
+    "example": "We walk to the park on Sundays.",
+    "exampleThai": "เราเดินไปสวนสาธารณะทุกวันอาทิตย์",
+    "synonyms": [
+      "stroll"
+    ],
+    "tags": [
+      "health",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 205
+  },
+  {
+    "word": "run",
+    "ipa": "/rʌn/",
+    "thaiMeaning": "วิ่ง",
+    "thaiReading": "รัน",
+    "type": "verb",
+    "level": "A1",
+    "example": "He runs every morning before work.",
+    "exampleThai": "เขาวิ่งทุกเช้าก่อนทำงาน",
+    "synonyms": [
+      "jog"
+    ],
+    "tags": [
+      "health",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 185
+  },
+  {
+    "word": "drive",
+    "ipa": "/draɪv/",
+    "thaiMeaning": "ขับ",
+    "thaiReading": "ไดรฟ์",
+    "type": "verb",
+    "level": "A1",
+    "example": "Can you drive me to the station?",
+    "exampleThai": "คุณขับรถพาฉันไปสถานีได้ไหม",
+    "synonyms": [
+      "operate"
+    ],
+    "tags": [
+      "travel",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 335
+  },
+  {
+    "word": "turn",
+    "ipa": "/tɜːrn/",
+    "thaiMeaning": "เลี้ยว",
+    "thaiReading": "เทิร์น",
+    "type": "verb",
+    "level": "A1",
+    "example": "Turn left at the traffic light.",
+    "exampleThai": "เลี้ยวซ้ายที่ไฟจราจร",
+    "synonyms": [
+      "rotate"
+    ],
+    "tags": [
+      "travel",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 450
+  },
+  {
+    "word": "left",
+    "ipa": "/left/",
+    "thaiMeaning": "ซ้าย",
+    "thaiReading": "เลฟท์",
+    "type": "adjective",
+    "level": "A1",
+    "example": "The bank is on the left side.",
+    "exampleThai": "ธนาคารอยู่ทางซ้าย",
+    "synonyms": [
+      "left side"
+    ],
+    "tags": [
+      "travel",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 155
+  },
+  {
+    "word": "right",
+    "ipa": "/raɪt/",
+    "thaiMeaning": "ขวา",
+    "thaiReading": "ไรท์",
+    "type": "adjective",
+    "level": "A1",
+    "example": "Turn right after the bridge.",
+    "exampleThai": "เลี้ยวขวาหลังสะพาน",
+    "synonyms": [
+      "right side"
+    ],
+    "tags": [
+      "travel",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 145
+  },
+  {
+    "word": "map",
+    "ipa": "/mæp/",
+    "thaiMeaning": "แผนที่",
+    "thaiReading": "แมป",
+    "type": "noun",
+    "level": "A1",
+    "example": "Use a map to find the museum.",
+    "exampleThai": "ใช้แผนที่หาพิพิธภัณฑ์",
+    "synonyms": [
+      "chart"
+    ],
+    "tags": [
+      "travel",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 590
+  },
+  {
+    "word": "hotel",
+    "ipa": "/hoʊˈtel/",
+    "thaiMeaning": "โรงแรม",
+    "thaiReading": "โฮ-เทล",
+    "type": "noun",
+    "level": "A1",
+    "example": "We stayed at a small hotel by the beach.",
+    "exampleThai": "เราพักโรงแรมเล็กๆ ริมชายหาด",
+    "synonyms": [
+      "inn"
+    ],
+    "tags": [
+      "travel",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 640
+  },
+  {
+    "word": "room",
+    "ipa": "/ruːm/",
+    "thaiMeaning": "ห้อง",
+    "thaiReading": "รูม",
+    "type": "noun",
+    "level": "A1",
+    "example": "My room is upstairs on the right.",
+    "exampleThai": "ห้องของฉันอยู่ชั้นบนทางขวา",
+    "synonyms": [
+      "chamber"
+    ],
+    "tags": [
+      "home",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 135
+  },
+  {
+    "word": "bed",
+    "ipa": "/bed/",
+    "thaiMeaning": "เตียง",
+    "thaiReading": "เบด",
+    "type": "noun",
+    "level": "A1",
+    "example": "I go to bed at ten o clock.",
+    "exampleThai": "ฉันเข้านอนสี่ทุ่ม",
+    "synonyms": [
+      "mattress"
+    ],
+    "tags": [
+      "home",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 295
+  },
+  {
+    "word": "bathroom",
+    "ipa": "/ˈbæθruːm/",
+    "thaiMeaning": "ห้องน้ำ",
+    "thaiReading": "แบธ-รูม",
+    "type": "noun",
+    "level": "A1",
+    "example": "The bathroom is at the end of the hall.",
+    "exampleThai": "ห้องน้ำอยู่ปลายทางเดิน",
+    "synonyms": [
+      "restroom"
+    ],
+    "tags": [
+      "home",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 670
+  },
+  {
+    "word": "kitchen",
+    "ipa": "/ˈkɪtʃɪn/",
+    "thaiMeaning": "ห้องครัว",
+    "thaiReading": "คิท-เชิ่น",
+    "type": "noun",
+    "level": "A1",
+    "example": "Mom is cooking in the kitchen.",
+    "exampleThai": "แม่กำลังทำอาหารในครัว",
+    "synonyms": [
+      "cooking area"
+    ],
+    "tags": [
+      "home",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 580
+  },
+  {
+    "word": "door",
+    "ipa": "/dɔːr/",
+    "thaiMeaning": "ประตู",
+    "thaiReading": "ดอร์",
+    "type": "noun",
+    "level": "A1",
+    "example": "Someone is knocking on the door.",
+    "exampleThai": "มีคนเคาะประตู",
+    "synonyms": [
+      "entrance"
+    ],
+    "tags": [
+      "home",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 265
+  },
+  {
+    "word": "window",
+    "ipa": "/ˈwɪndoʊ/",
+    "thaiMeaning": "หน้าต่าง",
+    "thaiReading": "วิน-โดว์",
+    "type": "noun",
+    "level": "A1",
+    "example": "Open the window for fresh air.",
+    "exampleThai": "เปิดหน้าต่างให้อากาศถ่ายเท",
+    "synonyms": [
+      "glass pane"
+    ],
+    "tags": [
+      "home",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 490
+  },
+  {
+    "word": "table",
+    "ipa": "/ˈteɪbl/",
+    "thaiMeaning": "โต๊ะ",
+    "thaiReading": "เทย์-เบิล",
+    "type": "noun",
+    "level": "A1",
+    "example": "Put the books on the table.",
+    "exampleThai": "วางหนังสือบนโต๊ะ",
+    "synonyms": [
+      "desk"
+    ],
+    "tags": [
+      "home",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 365
+  },
+  {
+    "word": "chair",
+    "ipa": "/tʃer/",
+    "thaiMeaning": "เก้าอี้",
+    "thaiReading": "แชร์",
+    "type": "noun",
+    "level": "A1",
+    "example": "Please take a chair and sit down.",
+    "exampleThai": "นั่งเก้าอี้ลงได้เลย",
+    "synonyms": [
+      "seat"
+    ],
+    "tags": [
+      "home",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 405
+  },
+  {
+    "word": "phone",
+    "ipa": "/foʊn/",
+    "thaiMeaning": "โทรศัพท์",
+    "thaiReading": "โฟน",
+    "type": "noun",
+    "level": "A1",
+    "example": "My phone battery is low.",
+    "exampleThai": "แบตเตอรี่โทรศัพท์ฉันใกล้หมด",
+    "synonyms": [
+      "mobile"
+    ],
+    "tags": [
+      "technology",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 90
+  },
+  {
+    "word": "computer",
+    "ipa": "/kəmˈpjuːtər/",
+    "thaiMeaning": "คอมพิวเตอร์",
+    "thaiReading": "คอม-พิว-เตอร์",
+    "type": "noun",
+    "level": "A1",
+    "example": "I use a computer for my homework.",
+    "exampleThai": "ฉันใช้คอมพิวเตอร์ทำการบ้าน",
+    "synonyms": [
+      "PC"
+    ],
+    "tags": [
+      "technology",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 425
+  },
+  {
+    "word": "internet",
+    "ipa": "/ˈɪntərnet/",
+    "thaiMeaning": "อินเทอร์เน็ต",
+    "thaiReading": "อิน-เทอร์-เน็ต",
+    "type": "noun",
+    "level": "A2",
+    "example": "The internet is slow today.",
+    "exampleThai": "อินเทอร์เน็ตวันนี้ช้า",
+    "synonyms": [
+      "web"
+    ],
+    "tags": [
+      "technology",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 380
+  },
+  {
+    "word": "email",
+    "ipa": "/ˈiːmeɪl/",
+    "thaiMeaning": "อีเมล",
+    "thaiReading": "อี-เมล",
+    "type": "noun",
+    "level": "A2",
+    "example": "Send me an email with the details.",
+    "exampleThai": "ส่งอีเมลพร้อมรายละเอียดมาให้ฉัน",
+    "synonyms": [
+      "message"
+    ],
+    "tags": [
+      "technology",
+      "daily"
+    ],
+    "difficulty": 2,
+    "frequencyRank": 550
+  },
+  {
+    "word": "friend",
+    "ipa": "/frend/",
+    "thaiMeaning": "เพื่อน",
+    "thaiReading": "เฟรนด์",
+    "type": "noun",
+    "level": "A1",
+    "example": "She is my best friend from school.",
+    "exampleThai": "เธอเป็นเพื่อนสนิทของฉันจากโรงเรียน",
+    "synonyms": [
+      "buddy"
+    ],
+    "tags": [
+      "people",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 105
+  },
+  {
+    "word": "family",
+    "ipa": "/ˈfæməli/",
+    "thaiMeaning": "ครอบครัว",
+    "thaiReading": "แฟม-มิ-ลี่",
+    "type": "noun",
+    "level": "A1",
+    "example": "I love spending time with my family.",
+    "exampleThai": "ฉันชอบใช้เวลากับครอบครัว",
+    "synonyms": [
+      "relatives"
+    ],
+    "tags": [
+      "people",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 115
+  },
+  {
+    "word": "brother",
+    "ipa": "/ˈbrʌðər/",
+    "thaiMeaning": "พี่/น้องชาย",
+    "thaiReading": "บราเธอร์",
+    "type": "noun",
+    "level": "A1",
+    "example": "My brother plays football on weekends.",
+    "exampleThai": "พี่ชายของฉันเล่นฟุตบอลวันหยุด",
+    "synonyms": [
+      "sibling"
+    ],
+    "tags": [
+      "people",
+      "family"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 500
+  },
+  {
+    "word": "sister",
+    "ipa": "/ˈsɪstər/",
+    "thaiMeaning": "พี่/น้องสาว",
+    "thaiReading": "ซิสเตอร์",
+    "type": "noun",
+    "level": "A1",
+    "example": "Her sister studies at university.",
+    "exampleThai": "น้องสาวของเธอเรียนมหาวิทยาลัย",
+    "synonyms": [
+      "sibling"
+    ],
+    "tags": [
+      "people",
+      "family"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 475
+  },
+  {
+    "word": "mother",
+    "ipa": "/ˈmʌðər/",
+    "thaiMeaning": "แม่",
+    "thaiReading": "มาเธอร์",
+    "type": "noun",
+    "level": "A1",
+    "example": "My mother cooks delicious food.",
+    "exampleThai": "แม่ของฉันทำอาหารอร่อย",
+    "synonyms": [
+      "mom"
+    ],
+    "tags": [
+      "people",
+      "family"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 88
+  },
+  {
+    "word": "father",
+    "ipa": "/ˈfɑːðər/",
+    "thaiMeaning": "พ่อ",
+    "thaiReading": "ฟาเธอร์",
+    "type": "noun",
+    "level": "A1",
+    "example": "His father works in a hospital.",
+    "exampleThai": "พ่อของเขาทำงานในโรงพยาบาล",
+    "synonyms": [
+      "dad"
+    ],
+    "tags": [
+      "people",
+      "family"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 92
+  },
+  {
+    "word": "child",
+    "ipa": "/tʃaɪld/",
+    "thaiMeaning": "เด็ก",
+    "thaiReading": "ไชลด์",
+    "type": "noun",
+    "level": "A1",
+    "example": "The child is playing in the garden.",
+    "exampleThai": "เด็กกำลังเล่นในสวน",
+    "synonyms": [
+      "kid"
+    ],
+    "tags": [
+      "people",
+      "family"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 255
+  },
+  {
+    "word": "baby",
+    "ipa": "/ˈbeɪbi/",
+    "thaiMeaning": "ทารก",
+    "thaiReading": "เบบี้",
+    "type": "noun",
+    "level": "A1",
+    "example": "The baby is sleeping peacefully.",
+    "exampleThai": "ทารกกำลังนอนหลับสบาย",
+    "synonyms": [
+      "infant"
+    ],
+    "tags": [
+      "people",
+      "family"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 395
+  },
+  {
+    "word": "name",
+    "ipa": "/neɪm/",
+    "thaiMeaning": "ชื่อ",
+    "thaiReading": "เนม",
+    "type": "noun",
+    "level": "A1",
+    "example": "What is your name?",
+    "exampleThai": "คุณชื่ออะไร",
+    "synonyms": [
+      "given name"
+    ],
+    "tags": [
+      "people",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 70
+  },
+  {
+    "word": "hello",
+    "ipa": "/həˈloʊ/",
+    "thaiMeaning": "สวัสดี",
+    "thaiReading": "เฮลโหล",
+    "type": "exclamation",
+    "level": "A1",
+    "example": "Hello! Nice to meet you.",
+    "exampleThai": "สวัสดี! ยินดีที่ได้รู้จัก",
+    "synonyms": [
+      "hi"
+    ],
+    "tags": [
+      "communication",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 60
+  },
+  {
+    "word": "goodbye",
+    "ipa": "/ˌɡʊdˈbaɪ/",
+    "thaiMeaning": "ลาก่อน",
+    "thaiReading": "กู้ด-บาย",
+    "type": "exclamation",
+    "level": "A1",
+    "example": "Goodbye! See you soon.",
+    "exampleThai": "ลาก่อน! แล้วเจอกัน",
+    "synonyms": [
+      "bye"
+    ],
+    "tags": [
+      "communication",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 430
+  },
+  {
+    "word": "please",
+    "ipa": "/pliːz/",
+    "thaiMeaning": "กรุณา",
+    "thaiReading": "พลีส",
+    "type": "adverb",
+    "level": "A1",
+    "example": "Please sit down.",
+    "exampleThai": "กรุณานั่งลง",
+    "synonyms": [
+      "kindly"
+    ],
+    "tags": [
+      "communication",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 80
+  },
+  {
+    "word": "thank",
+    "ipa": "/θæŋk/",
+    "thaiMeaning": "ขอบคุณ",
+    "thaiReading": "แทงค์",
+    "type": "verb",
+    "level": "A1",
+    "example": "Thank you for your help.",
+    "exampleThai": "ขอบคุณสำหรับความช่วยเหลือ",
+    "synonyms": [
+      "appreciate"
+    ],
+    "tags": [
+      "communication",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 75
+  },
+  {
+    "word": "sorry",
+    "ipa": "/ˈsɒri/",
+    "thaiMeaning": "ขอโทษ",
+    "thaiReading": "ซอร์-รี่",
+    "type": "exclamation",
+    "level": "A1",
+    "example": "Sorry, I did not hear you.",
+    "exampleThai": "ขอโทษ ฉันไม่ได้ยินคุณ",
+    "synonyms": [
+      "apologize"
+    ],
+    "tags": [
+      "communication",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 85
+  },
+  {
+    "word": "yes",
+    "ipa": "/jes/",
+    "thaiMeaning": "ใช่",
+    "thaiReading": "เยส",
+    "type": "adverb",
+    "level": "A1",
+    "example": "Yes, I would love to come.",
+    "exampleThai": "ใช่ ฉันอยากไปมาก",
+    "synonyms": [
+      "yeah"
+    ],
+    "tags": [
+      "communication",
+      "daily"
+    ],
+    "difficulty": 1,
+    "frequencyRank": 50
+  }
+]
