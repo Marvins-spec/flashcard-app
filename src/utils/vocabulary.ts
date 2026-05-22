@@ -31,6 +31,39 @@ export function filterDueCards(cards: VocabularyWithProgress[], now = new Date()
   return cards.filter((c) => isDue(c.nextReview, now))
 }
 
+/** Matches mastered-word criteria used in stats and review queues */
+export function isWordLearned(card: VocabularyWithProgress): boolean {
+  return card.reviewCount >= 3 && card.interval >= 21
+}
+
+/**
+ * Syncs persisted vocabulary with the current seed catalog.
+ * Preserves SM-2 progress by word (case-insensitive); adds new seed words.
+ */
+export function mergeVocabularyWithSeed(
+  existing: VocabularyWithProgress[],
+  seed: VocabularyWithProgress[]
+): VocabularyWithProgress[] {
+  const existingByWord = new Map<string, VocabularyWithProgress>()
+  for (const card of existing) {
+    existingByWord.set(card.word.toLowerCase(), card)
+  }
+
+  return seed.map((seedCard) => {
+    const prev = existingByWord.get(seedCard.word.toLowerCase())
+    if (!prev) return seedCard
+    return {
+      ...seedCard,
+      id: prev.id,
+      nextReview: prev.nextReview,
+      reviewCount: prev.reviewCount,
+      easeFactor: prev.easeFactor,
+      interval: prev.interval,
+      lastReviewed: prev.lastReviewed,
+    }
+  })
+}
+
 export function filterByLevel(cards: VocabularyCard[], level: CEFRLevel): VocabularyCard[] {
   return cards.filter((c) => c.level === level)
 }

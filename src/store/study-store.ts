@@ -16,8 +16,17 @@ import {
   createDefaultUserStats,
   updateStreak,
   calculateAccuracy,
+  computeRetentionByLevel,
+  computeRetentionRate,
+  type RetentionLevelStat,
 } from '@/utils/statistics'
-import { filterDueCards, shuffleCards, cardToWithProgress } from '@/utils/vocabulary'
+import {
+  filterDueCards,
+  shuffleCards,
+  cardToWithProgress,
+  isWordLearned,
+  mergeVocabularyWithSeed,
+} from '@/utils/vocabulary'
 import { toDateKey } from '@/utils/date'
 import { loadAllVocabularyCards } from '@/data/load-vocabulary'
 
@@ -57,6 +66,7 @@ interface StudyStoreState {
   getWeakWords: () => VocabularyWithProgress[]
   getLearnedWords: () => VocabularyWithProgress[]
   getRetentionRate: () => number
+  getRetentionByLevel: () => RetentionLevelStat[]
   setDailyGoal: (goal: number) => void
   setLoading: (loading: boolean) => void
 }
@@ -70,11 +80,24 @@ function syncQueues(state: StudyStoreState): Pick<StudyStoreState, 'reviewQueue'
   const weak = state.vocabulary.filter(
     (c) => c.easeFactor < 2.0 || (c.reviewCount > 0 && c.interval <= 1)
   )
-  const learned = state.vocabulary.filter((c) => c.reviewCount >= 3 && c.interval >= 21)
+  const learned = state.vocabulary.filter(isWordLearned)
   return {
     reviewQueue: due.map((c) => c.id),
     weakWordIds: weak.map((c) => c.id),
     learnedWordIds: learned.map((c) => c.id),
+  }
+}
+
+function applyVocabularySync(
+  state: StudyStoreState,
+  vocabulary: VocabularyWithProgress[]
+): Partial<StudyStoreState> {
+  const queues = syncQueues({ ...state, vocabulary })
+  const mastered = vocabulary.filter(isWordLearned).length
+  return {
+    vocabulary,
+    ...queues,
+    userStats: { ...state.userStats, totalWordsLearned: mastered },
   }
 }
 
@@ -98,16 +121,12 @@ export const useStudyStore = create<StudyStoreState>()(
 
       hydrateFromSeed: () => {
         const state = get()
-        if (state.vocabulary.length === 0) {
-          set({ vocabulary: seedVocabulary, ...syncQueues({ ...state, vocabulary: seedVocabulary }) })
-        } else {
-          set(syncQueues(state))
-        }
-        set({ hydrated: true })
+        const vocabulary = mergeVocabularyWithSeed(state.vocabulary, seedVocabulary)
+        set({ ...applyVocabularySync(state, vocabulary), hydrated: true })
       },
 
       setVocabulary: (cards) => {
-        set((state) => ({ vocabulary: cards, ...syncQueues({ ...state, vocabulary: cards }) }))
+        set((state) => applyVocabularySync(state, cards))
       },
 
       buildReviewQueue: () => {
@@ -178,9 +197,7 @@ export const useStudyStore = create<StudyStoreState>()(
           correctAnswers: isCorrectRating(rating)
             ? state.userStats.correctAnswers + 1
             : state.userStats.correctAnswers,
-          totalWordsLearned: updatedVocab.filter(
-            (v) => v.reviewCount >= 3 && v.interval >= 21
-          ).length,
+          totalWordsLearned: updatedVocab.filter(isWordLearned).length,
           streak: streakUpdate.streak,
           longestStreak: streakUpdate.longestStreak,
           lastStudyDate: streakUpdate.lastStudyDate,
@@ -256,13 +273,9 @@ export const useStudyStore = create<StudyStoreState>()(
       getLearnedWords: () =>
         get().vocabulary.filter((v) => get().learnedWordIds.includes(v.id)),
 
-      getRetentionRate: () => {
-        const s = get()
-        const learned = s.learnedWordIds.length
-        const total = s.vocabulary.length
-        if (total === 0) return 0
-        return Math.round((learned / total) * 100)
-      },
+      getRetentionRate: () => computeRetentionRate(get().vocabulary),
+
+      getRetentionByLevel: () => computeRetentionByLevel(get().vocabulary),
 
       setDailyGoal: (goal) =>
         set((s) => ({

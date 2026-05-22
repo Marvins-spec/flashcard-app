@@ -4,12 +4,14 @@ import a1Data from './a1.json'
 import a2Data from './a2.json'
 import b1Data from './b1.json'
 import b2Data from './b2.json'
+import practicalDailyData from './practical-daily.json'
 
 const LEVEL_FILES: { file: VocabularySeedEntry[]; prefix: string }[] = [
   { file: a1Data as VocabularySeedEntry[], prefix: 'a1' },
   { file: a2Data as VocabularySeedEntry[], prefix: 'a2' },
   { file: b1Data as VocabularySeedEntry[], prefix: 'b1' },
   { file: b2Data as VocabularySeedEntry[], prefix: 'b2' },
+  { file: practicalDailyData as VocabularySeedEntry[], prefix: 'daily' },
 ]
 
 type LegacyEntry = VocabularyCard & Partial<VocabularySeedEntry>

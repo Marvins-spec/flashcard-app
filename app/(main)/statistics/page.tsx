@@ -1,17 +1,35 @@
 'use client'
 
+import { useMemo } from 'react'
 import { motion } from 'framer-motion'
 import { TrendingUp, TrendingDown, Calendar, Target, BookOpen, Award } from 'lucide-react'
+import type { CEFRLevel } from '@/types'
 import { useStudyStats, useStudyStore } from '@/store/study-store'
 import { useWeakWords, useVocabularyInit } from '@/hooks/use-vocabulary'
+import { computeRetentionByLevel, computeRetentionRate } from '@/utils/statistics'
 import { LEVEL_COLORS } from '@/lib/utils'
 import { StatCard } from '@/components/stat-card'
 import { cn } from '@/lib/utils'
 
+const LEVEL_BAR_COLORS: Record<CEFRLevel, string> = {
+  A1: 'bg-accent',
+  A2: 'bg-accent',
+  B1: 'bg-primary',
+  B2: 'bg-primary',
+  C1: 'bg-chart-4',
+  C2: 'bg-chart-4',
+}
+
 export default function StatisticsPage() {
   const { userStats, accuracy } = useStudyStats()
   const weakWords = useWeakWords()
-  const retentionRate = useStudyStore((s) => s.getRetentionRate())
+  const vocabulary = useStudyStore((s) => s.vocabulary)
+  const retentionByLevel = useMemo(
+    () => computeRetentionByLevel(vocabulary),
+    [vocabulary]
+  )
+  const retentionRate = useMemo(() => computeRetentionRate(vocabulary), [vocabulary])
+  const totalVocabulary = vocabulary.length
   useVocabularyInit()
 
   // Calculate max for heatmap intensity
@@ -57,7 +75,7 @@ export default function StatisticsPage() {
           <StatCard
             title="Words Mastered"
             value={userStats.totalWordsLearned}
-            subtitle="of 3000"
+            subtitle={`of ${totalVocabulary}`}
             icon={<Target className="h-5 w-5" />}
           />
           <StatCard
@@ -120,16 +138,10 @@ export default function StatisticsPage() {
           >
             <h2 className="font-semibold text-foreground mb-6">Retention by Level</h2>
             <div className="space-y-4">
-              {[
-                { level: 'A1', total: 500, learned: 180, color: 'bg-accent' },
-                { level: 'A2', total: 500, learned: 120, color: 'bg-accent' },
-                { level: 'B1', total: 800, learned: 200, color: 'bg-primary' },
-                { level: 'B2', total: 700, learned: 150, color: 'bg-primary' },
-                { level: 'C1', total: 300, learned: 50, color: 'bg-chart-4' },
-                { level: 'C2', total: 200, learned: 10, color: 'bg-chart-4' },
-              ].map((item, index) => {
-                const percentage = Math.round((item.learned / item.total) * 100)
-                return (
+              {retentionByLevel.length === 0 ? (
+                <p className="text-sm text-muted-foreground">No vocabulary loaded yet.</p>
+              ) : (
+                retentionByLevel.map((item, index) => (
                   <motion.div
                     key={item.level}
                     initial={{ opacity: 0, x: -20 }}
@@ -139,25 +151,30 @@ export default function StatisticsPage() {
                   >
                     <div className="flex items-center justify-between text-sm">
                       <div className="flex items-center gap-2">
-                        <span className={cn('px-2 py-0.5 rounded-full text-xs font-medium', LEVEL_COLORS[item.level as keyof typeof LEVEL_COLORS])}>
+                        <span
+                          className={cn(
+                            'px-2 py-0.5 rounded-full text-xs font-medium',
+                            LEVEL_COLORS[item.level]
+                          )}
+                        >
                           {item.level}
                         </span>
                       </div>
                       <span className="text-muted-foreground">
-                        {item.learned}/{item.total} ({percentage}%)
+                        {item.learned}/{item.total} ({item.percentage}%)
                       </span>
                     </div>
                     <div className="h-2 bg-muted/30 rounded-full overflow-hidden">
                       <motion.div
                         initial={{ width: 0 }}
-                        animate={{ width: `${percentage}%` }}
+                        animate={{ width: `${item.percentage}%` }}
                         transition={{ delay: 0.4 + index * 0.05, duration: 0.5 }}
-                        className={cn('h-full rounded-full', item.color)}
+                        className={cn('h-full rounded-full', LEVEL_BAR_COLORS[item.level])}
                       />
                     </div>
                   </motion.div>
-                )
-              })}
+                ))
+              )}
             </div>
           </motion.div>
         </div>

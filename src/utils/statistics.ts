@@ -1,5 +1,37 @@
-import type { HeatmapData, UserStats, WeeklyData } from '@/types'
+import type { CEFRLevel, HeatmapData, UserStats, VocabularyWithProgress, WeeklyData } from '@/types'
+import { isWordLearned } from './vocabulary'
 import { toDateKey } from './date'
+
+export interface RetentionLevelStat {
+  level: CEFRLevel
+  total: number
+  learned: number
+  percentage: number
+}
+
+const CEFR_LEVELS: CEFRLevel[] = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2']
+
+export function computeRetentionByLevel(
+  vocabulary: VocabularyWithProgress[]
+): RetentionLevelStat[] {
+  return CEFR_LEVELS.map((level) => {
+    const atLevel = vocabulary.filter((v) => v.level === level)
+    const total = atLevel.length
+    const learned = atLevel.filter(isWordLearned).length
+    return {
+      level,
+      total,
+      learned,
+      percentage: total > 0 ? Math.round((learned / total) * 100) : 0,
+    }
+  }).filter((item) => item.total > 0)
+}
+
+export function computeRetentionRate(vocabulary: VocabularyWithProgress[]): number {
+  if (vocabulary.length === 0) return 0
+  const learned = vocabulary.filter(isWordLearned).length
+  return Math.round((learned / vocabulary.length) * 100)
+}
 
 export function calculateAccuracy(totalReviews: number, correctAnswers: number): number {
   if (totalReviews === 0) return 0
